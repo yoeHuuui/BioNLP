@@ -1,22 +1,3 @@
-# Codes developer: Sizhuo Ouyang
-# HZAU BioNLP Lab
-# 2022-04
-# 代码目的：读取PubTator结果文件，根据关键词生成命中句及其标注。代码仅提供基础功能，欢迎试用，改写。
-
-
-###########################################################
-# $cat data/pubtator_blca.txt| head -7
-#20301443|t|Peutz-Jeghers Syndrome
-#20301443|a|CLINICAL CHARACTERISTICS: Peutz-Jeghers syndrome (PJS) is an autosomal dominant condition characterized by 
-#     the association of gastrointestinal polyposis, mucocutaneous pigmentation, and cancer predisposition. Peutz-Jeghers-
-#     type hamartomatous polyps are most common in the ...
-#20301443        49      71      Peutz-Jeghers syndrome  Disease MESH:D010580
-#20301443        73      76      PJS     Gene    6794
-#20301443        149     175     gastrointestinal polyposis      Disease MESH:D005767
-#20301443        177     203     mucocutaneous pigmentation      Disease MESH:D010859
-#20301443        209     215     cancer  Disease MESH:D009369
-###########################################################
-
 import nltk
 from nltk.tokenize import sent_tokenize
 import argparse
