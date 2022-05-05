@@ -1,0 +1,5534 @@
+Disease	Time
+ASD	80038
+autism	52816
+autism spectrum disorder	21244
+autism spectrum disorders	10131
+Autism	9898
+ADHD	8946
+anxiety	6159
+autistic	5909
+Autism Spectrum Disorder	5621
+schizophrenia	4661
+neurodevelopmental disorders	4226
+epilepsy	4091
+ASDs	3743
+depression	3511
+FXS	3110
+psychiatric	2976
+psychiatric disorders	2399
+Autism spectrum disorder	2316
+Autism Spectrum Disorders	1820
+seizures	1779
+stress	1741
+mental retardation	1574
+neurodevelopmental disorder	1565
+autistic disorder	1471
+neuropsychiatric disorders	1384
+developmental delay	1249
+AD	1191
+Autism spectrum disorders	1127
+OCD	1108
+hyperactivity	1104
+obesity	1040
+developmental disabilities	1040
+attention-deficit/hyperactivity disorder	1027
+fragile X syndrome	1026
+attention deficit hyperactivity disorder	1017
+developmental disorders	1007
+PDD	995
+inflammation	990
+COVID-19	974
+aggression	920
+seizure	906
+pain	904
+neurological disorders	824
+autistic spectrum disorder	810
+mental disorders	794
+autistic traits	773
+psychosis	722
+bipolar disorder	709
+Anxiety	702
+Alzheimer's disease	693
+irritability	683
+cancer	681
+infection	660
+NDDs	655
+autistic spectrum disorders	650
+autism symptoms	623
+pervasive developmental disorder	618
+empathy	614
+language impairment	598
+cerebral palsy	586
+DD	585
+diabetes	579
+Fragile X syndrome	568
+autistic symptoms	554
+anxiety disorders	544
+pervasive developmental disorders	520
+Rett syndrome	498
+SCZ	483
+TS	477
+cognitive impairment	477
+WS	474
+tuberous sclerosis	459
+PWS	459
+mortality	459
+AN	444
+depressive symptoms	416
+obsessive-compulsive disorder	416
+death	409
+macrocephaly	402
+dementia	391
+Stress	388
+repetitive behaviors	388
+asthma	384
+Mental Disorders	382
+attention-deficit hyperactivity disorder	378
+haploinsufficiency	371
+catatonia	370
+developmental disorder	368
+Autism Spectrum	362
+Parkinson's disease	361
+CP	360
+hypotonia	358
+cognitive deficits	358
+RTT	353
+schizophrenia and autism	348
+insomnia	343
+depressive disorder	342
+impairments	336
+SZ	330
+brain disorders	323
+language delay	323
+alexithymia	321
+sleep disorders	317
+infections	315
+trauma	313
+Epilepsy	305
+anxiety disorder	302
+BD	296
+Depression	295
+mood disorders	291
+mitochondrial dysfunction	290
+Fragile X Syndrome	286
+anorexia nervosa	286
+behavioral abnormalities	281
+PMS	279
+microcephaly	276
+Angelman syndrome	274
+autism and schizophrenia	274
+Williams syndrome	266
+mental illness	266
+attention deficit/hyperactivity disorder	265
+behavioral deficits	264
+dyslexia	261
+deficits	260
+toxicity	259
+rubella	258
+NDD	257
+impulsivity	252
+learning disability	247
+communication deficits	246
+neurological diseases	242
+Schizophrenia	241
+Tourette syndrome	240
+learning disabilities	239
+autistic behavior	237
+deficiency	236
+neurodegenerative diseases	236
+autistic disorders	235
+Asperger's syndrome	230
+Neurodevelopmental Disorders	229
+sleep disturbances	225
+infantile autism	225
+MR	224
+behavioral disorders	223
+developmental disability	222
+fragile X	221
+psychiatric disorder	220
+ASC	220
+eating disorders	219
+psychiatric diseases	217
+startle	216
+psychotic	213
+dysbiosis	212
+constipation	212
+hypothalamus	211
+PD	210
+gastrointestinal symptoms	207
+cognitive abilities	207
+cognitive impairments	206
+hearing loss	205
+depressive	205
+Prader-Willi syndrome	200
+idiopathic autism	199
+epileptic	194
+DCD	194
+autistic behaviors	192
+dysmorphic	191
+genetic disorder	191
+schizophrenia, bipolar disorder	190
+stroke	189
+genetic disorders	188
+PDDs	187
+DLD	186
+multiple sclerosis	184
+HD	184
+fever	183
+tumor	182
+Tuberous sclerosis	182
+Neurodevelopmental disorders	179
+Phelan-McDermid syndrome	177
+hypersensitivity	176
+neuropsychiatric diseases	172
+FASD	171
+hypertension	170
+social deficits	170
+ataxia	170
+neurodegenerative disorders	167
+neurodegeneration	167
+CD	166
+obese	164
+HFA	163
+PTSD	161
+language disorders	159
+congenital anomalies	159
+language disorder	159
+NF1	158
+cognitive skills	158
+neurotoxic	157
+disruptive behavior	156
+sleep disturbance	155
+epileptic encephalopathy	155
+infantile spasms	154
+Timothy syndrome	148
+malformations	147
+neurodevelopmental disabilities	145
+TSC	145
+weight gain	144
+psychotic disorders	142
+conduct disorder	140
+Attention Deficit Hyperactivity Disorder	139
+language impairments	139
+encephalopathy	138
+tremor	137
+cognitive dysfunction	136
+epileptiform	136
+autism traits	135
+Attention-Deficit/Hyperactivity Disorder	134
+brain abnormalities	134
+psychiatric symptoms	134
+language deficits	132
+epileptic seizures	132
+obsessive compulsive disorder	124
+neurotoxicity	124
+cognitive	123
+communication impairments	123
+schizophrenic	123
+SMS	123
+TD	122
+dysphoria	121
+cognitive disorders	121
+CdLS	119
+RSA	118
+Autistic Spectrum Disorder	118
+SRS	118
+IBD	117
+autistic brain	116
+traumatic stress disorder	114
+psychotic symptoms	114
+fragile	113
+LD	113
+oppositional defiant disorder	112
+Empathy	112
+Autism Behavior	110
+fatigue	110
+mental disorder	109
+Pervasive Developmental Disorder	109
+cancers	109
+ODD	109
+communication disorders	108
+movement disorders	108
+brain injury	107
+migraine	106
+Irritability	106
+chromosomal abnormalities	105
+neurodevelopmental disease	105
+PCOS	104
+Autism Res 2019	104
+neurodevelopmental diseases	103
+epilepsies	103
+fasciculus	103
+WBS	103
+autoimmune diseases	101
+DDs	100
+deaths	99
+IA	98
+inflammatory bowel disease	98
+deafness	98
+Autism and Developmental Disabilities	97
+psychomotor	96
+cognitive empathy	96
+Seizures	96
+infected	95
+diabetes mellitus	95
+syndromic	95
+SLOS	94
+social dysfunction	94
+PKU	94
+depressive disorders	93
+blindness	92
+viral infection	92
+developmental coordination disorder	92
+disruptive behaviors	91
+neuropsychiatric disorder	91
+attention deficit disorder	91
+rigidity	90
+hypoxia	90
+NDs	90
+hyperacusis	89
+autism and epilepsy	89
+ALS	89
+tic disorders	88
+Psychiatric disorders	88
+autism-spectrum disorders	88
+neuropsychiatric disease	87
+infertility	87
+neurological disease	87
+tumors	87
+facial dysmorphism	86
+autism-spectrum disorder	86
+mentally retarded	85
+metabolic disorders	85
+CHD	85
+TBI	85
+SE	85
+diarrhea	85
+Psychiatric Disorders	85
+amyotrophic lateral sclerosis	85
+depressed	84
+fitness	84
+AUT	84
+Autistic	84
+visual attention	83
+ND	83
+neurological disorder	83
+agitation	83
+developmental language disorder	83
+psychiatric illness	83
+short stature	82
+BPD	82
+vomiting	82
+learning disorders	81
+psychiatric illnesses	81
+status epilepticus	81
+Tourette's syndrome	81
+traumatic brain injury	81
+congenital malformations	80
+allergy	80
+autism disorder	80
+Autistic disorder	80
+behavioral impairments	80
+sensory hypersensitivity	79
+AU	79
+developmental delays	79
+LI	78
+brain diseases	78
+psychiatric disease	78
+mood disorder	78
+encephalitis	78
+MDD	77
+cognitive decline	76
+SSD	76
+birth defects	75
+cardiovascular disease	75
+gastrointestinal disorders	75
+dysfunctional	74
+maladaptive behaviors	73
+posttraumatic stress disorder	73
+memory deficits	73
+Developmental Disabilities	72
+language skills	72
+visual impairment	72
+enuresis	72
+Tuberous Sclerosis Complex	72
+neurodevelopmental delay	71
+phobia	71
+hearing impairment	71
+Psychosis	71
+psychopathy	70
+schizophrenia and autism spectrum disorder	70
+neurobehavioral disorders	70
+Catatonia	70
+PTHS	70
+motor dysfunction	69
+cross-disorder	69
+dysmorphic features	68
+sensory abnormalities	68
+SAD	68
+Haploinsufficiency	67
+Hyperactivity	66
+hyperactive	66
+episodic memory	66
+brain dysfunction	66
+breast cancer	66
+schizophrenia and bipolar disorder	65
+schizophrenia spectrum disorders	65
+seizure disorders	64
+congenital heart disease	64
+mania	63
+lethargy	63
+inability	63
+neurologic disorders	63
+dyspraxia	63
+Alzheimer disease	63
+haploinsufficient	62
+Inflammation	62
+substance abuse	62
+Smith-Magenis syndrome	62
+Attention-deficit/hyperactivity disorder	62
+Classification of Diseases	62
+disabilities	62
+anxious	62
+PTLS	62
+VCFS	62
+Asperger's disorder	61
+Pain	61
+Huntington's disease	61
+rheumatoid arthritis	61
+autistic brains	61
+schizophrenia and autism spectrum disorders	61
+Pervasive Developmental Disorders	60
+anhedonia	60
+psychotic disorder	60
+neuroblastoma	60
+autoimmune disorders	60
+obsessive-compulsive symptoms	60
+syndromic autism	60
+Cornelia de Lange syndrome	60
+metabolic syndrome	60
+bipolar disorders	59
+headache	59
+auditory hypersensitivity	59
+disability	59
+EDs	59
+behavior disorders	59
+GI symptoms	58
+hydrocephalus	58
+sleep	58
+scoliosis	58
+HPA	58
+DMD	58
+Asperger's Syndrome	58
+anemia	58
+ataxia syndrome	57
+excitotoxicity	57
+obsessive-compulsive	57
+fragile X mental retardation	57
+hyperserotonemia	57
+hypothyroidism	56
+genetic abnormalities	56
+Autism Spectrum Conditions	56
+aggressiveness	56
+FX	56
+hyperactivity/impulsivity	55
+CHARGE	55
+KS	55
+attention deficits	55
+SD	55
+autism spectrum disorder symptoms	55
+chronic diseases	55
+aneuploidy	55
+anorexia	54
+fits	54
+SLE	54
+weakness	54
+epileptic encephalopathies	54
+learning deficits	54
+food allergy	54
+eclampsia	54
+social impairments	54
+inferior frontal gyrus	53
+neurological symptoms	53
+Williams-Beuren syndrome	52
+developmental abnormalities	52
+Seizure	52
+MS	52
+epileptiform activity	52
+emotional disorders	52
+sadness	52
+genetic disease	52
+neurodevelopmental abnormalities	52
+Attention deficit hyperactivity disorder	51
+seizure disorder	51
+Neuropsychiatric Disorders	51
+ONH	51
+Alzheimer's	51
+Crohn's disease	51
+CHARGE syndrome	51
+cognitive deficit	51
+autoimmune disease	51
+HI	50
+hypothalamic	50
+somnolence	50
+fracture	50
+eating disorder	50
+Autistic Disorder	50
+Alzheimer	50
+viral infections	50
+FraX	50
+Developmental Disorders	50
+mental rotation	50
+High Functioning Autism	50
+asd	49
+Cancer	49
+attention deficit	49
+cleft palate	49
+BP	49
+High-Functioning Autism	49
+Alzheimer's Disease	49
+neurological deficits	49
+hallucinations	49
+immune dysfunction	48
+attention deficit-hyperactivity disorder	48
+TAND	48
+learning disorder	48
+Williams Syndrome	48
+Autism and Developmental Disorders	48
+GID	48
+alcoholism	48
+irritable bowel syndrome	48
+bruxism	47
+brain overgrowth	47
+ADD	47
+AT	47
+Turner syndrome	47
+SPD	47
+aggressive behaviors	47
+behavioral disorder	47
+Autistic Spectrum Disorders	47
+respiratory sinus arrhythmia	47
+Prader-Willi	47
+neurodevelopmental syndrome	46
+atrophy	46
+inborn errors of metabolism	46
+motor abnormalities	46
+spasms	46
+motor impairments	46
+allergic	46
+dystonia	46
+died	46
+congenital heart defects	46
+allergies	45
+neurological abnormalities	45
+dysmorphism	45
+RA	45
+daytime sleepiness	45
+FXTAS	45
+prostate cancer	44
+neurodevelopmental disability	44
+Duchenne muscular dystrophy	44
+dysmorphic facial	44
+refractory epilepsy	44
+spasticity	44
+Landau-Kleffner syndrome	44
+growth retardation	44
+uniparental disomy	44
+Obsessive Compulsive	44
+developmental neurotoxicity	44
+infectious diseases	44
+tic disorder	43
+brain disease	43
+EoE	43
+Anorexia Nervosa	43
+dysfunction	43
+weight loss	43
+Kleefstra syndrome	43
+parkinsonism	43
+nausea	43
+High-Functioning Autism Spectrum Disorder	43
+hyperphagia	43
+Parkinson disease	43
+cerebellar dysfunction	43
+genetic diseases	43
+NE	43
+abdominal pain	43
+language delays	43
+injury	42
+facial dysmorphisms	42
+behavior deficits	42
+SMD	42
+Covid-19	42
+Pervasive developmental disorders	41
+Anxiety disorders	41
+conduct disorders	41
+Sleep disorders	41
+KBG syndrome	41
+hepatitis B	41
+impairment	41
+compulsive	41
+attention deficit and hyperactivity disorder	41
+headaches	41
+visual memory	41
+Phelan-McDermid Syndrome	41
+Autistic spectrum disorder	41
+cognitive disabilities	41
+CS	41
+phenylketonuria	40
+hyperlexia	40
+RTS	40
+sleep disorder	40
+CNS disorders	40
+neurodevelopment disorders	40
+Communication Disorders	40
+UPD	40
+brain malformations	40
+Obsessive-Compulsive	40
+megalencephaly	40
+neurodevelopmental impairments	40
+metabolic abnormalities	40
+autism, bipolar disorder	40
+aphasia	40
+depression symptoms	40
+chronic pain	40
+gastrointestinal dysfunction	40
+cognitive neuroscience	39
+Autistic spectrum disorders	39
+Smith-Lemli-Opitz syndrome	39
+psychomotor retardation	39
+psychological disorders	39
+DM	39
+X-linked mental retardation	39
+psychiatric conditions	39
+Angelman Syndrome	38
+SCD	38
+Critically	38
+SCH	38
+motor deficits	38
+nutritional deficiencies	38
+Neurological Disorders	38
+CRS	38
+aggressive behavior	38
+Lennox-Gastaut syndrome	37
+channelopathies	37
+NS	37
+autistic syndrome	37
+bipolar	37
+disruptive behavior disorders	37
+depressed mood	37
+longitudinal fasciculus	37
+cognitive rigidity	37
+HFASD	37
+LKS	37
+mitochondrial disorders	36
+sensory dysfunction	36
+genetic syndrome	36
+autoimmunity	36
+diabetic	36
+movement disorder	36
+communication disorder	36
+autism disorders	36
+drug-resistant epilepsy	36
+Obsessive-Compulsive Disorder	36
+Potocki-Lupski syndrome	36
+IEM	36
+mental diseases	36
+Mortality	36
+systemic lupus erythematosus	36
+glioma	36
+genetic defects	36
+Mitochondrial dysfunction	36
+broader autism	36
+attention-deficit-hyperactivity disorder	35
+brain damage	35
+neuropathic pain	35
+IS	35
+developmental brain disorders	35
+ASD symptoms	35
+incontinence	35
+convulsions	35
+cognitive inflexibility	35
+Beck Depression	35
+Insomnia	35
+brain tumors	35
+autism spectrum symptoms	35
+insufficiency	35
+sensory deficits	35
+openness	35
+white matter abnormalities	35
+PCa	35
+structural abnormalities	35
+Attention Deficit/Hyperactivity Disorder	34
+mitochondrial disease	34
+jaundice	34
+DMDD	34
+autism and attention deficit hyperactivity disorder	34
+XYY syndrome	34
+telencephalon	34
+learning difficulties	34
+hyperprolactinemia	34
+bipolar affective disorder	34
+RASopathies	34
+childhood autism	34
+Neuropsychiatric disorders	34
+CKD	34
+neurodegenerative disorder	34
+anomaly	34
+amblyopia	34
+parental stress	34
+ED	34
+joint attention skills	33
+APD	33
+iron deficiency	33
+zinc deficiency	33
+narcolepsy	33
+APC	33
+IDD	33
+LPS	33
+hypoplasia	33
+atopic dermatitis	33
+sensorineural hearing loss	33
+Fragile X	33
+retardation	33
+MDs	33
+cognitive delay	33
+manic	33
+emotional empathy	33
+cognitive disability	33
+ventriculomegaly	33
+neuronal dysfunction	33
+sexual abuse	33
+cardiac arrhythmias	32
+celiac disease	32
+Infection	32
+panic disorder	32
+hypertelorism	32
+Cerebral Palsy	32
+Prader-Willi Syndrome	32
+language learning	32
+social communication deficits	32
+Cowden syndrome	32
+childhood disorders	32
+Obsessive-compulsive disorder	32
+IFG	32
+IVF	32
+Repetitive behaviors	32
+ILF	32
+vicarious	32
+Pitt-Hopkins syndrome	31
+sudden death	31
+cerebellar abnormalities	31
+Repetitive Behaviors	31
+syndromic intellectual disability	31
+cardiovascular diseases	31
+chromosome abnormalities	31
+nocturnal enuresis	31
+dendritic branching	31
+LQTS	31
+myopia	31
+communication impairment	31
+brain disorder	31
+neurodevelopmental impairment	31
+drug abuse	31
+fragile-X syndrome	31
+Alexithymia	31
+idiopathic autism spectrum disorder	31
+shock	31
+febrile seizures	31
+Dysphoria	30
+lissencephaly	30
+epileptiform abnormalities	30
+neonatal jaundice	30
+LGS	30
+Mental retardation	30
+chorioamnionitis	30
+Developmental Coordination Disorder	30
+otitis	30
+Parkinson's	30
+ASP	30
+impulsive	30
+Attention-Deficit/Hyperactivity	30
+epileptic spasms	30
+BBSOAS	30
+neurodegenerative disease	30
+cortical dysplasia	30
+nystagmus	30
+developmental dyslexia	30
+hyperactivity symptoms	30
+attention deficit hyperactivity disorders	30
+speech disorders	30
+sensory impairments	30
+neuropathologies	30
+AEDs	29
+impaired language	29
+bleeding	29
+DBD	29
+metabolic diseases	29
+Mental Retardation	29
+temporal lobe epilepsy	29
+food allergies	29
+neurogenetic disorders	29
+Dementia	29
+memory impairments	29
+psychomotor delay	29
+cognitive symptoms	29
+neurological dysfunction	29
+fractures	29
+sensations	29
+Sotos syndrome	29
+aniridia	29
+developmental language disorders	29
+autistic-spectrum disorder	29
+MPS	29
+colorectal cancer	28
+OCPD	28
+neuro-developmental disorders	28
+SNHL	28
+Rett Syndrome	28
+compulsive behaviors	28
+hyperbilirubinemia	28
+hamartomas	28
+cerebellar atrophy	28
+schizophrenia, autism	28
+skill deficits	28
+XLI	28
+arthritis	28
+psychosocial stress	28
+Macrocephaly	28
+hypersensitive	28
+CVD	27
+catatonic symptoms	27
+neurodevelopmental psychiatric disorders	27
+neurobehavioral abnormalities	27
+Attention-Deficit Hyperactivity Disorder	27
+adolescent psychiatric	27
+SYS	27
+hypothermia	27
+Gilles de la Tourette syndrome	27
+autistic boys	27
+autism-linked	27
+cerebellar hypoplasia	27
+cystic fibrosis	27
+brain anomalies	27
+anterior insula	27
+epilepsy syndromes	27
+anxieties	27
+BMD	27
+neurodevelopmental defects	27
+cognitive behaviors	27
+Cornelia de Lange	27
+aUtIsm	26
+epileptiform discharges	26
+fetal alcohol spectrum disorder	26
+neurodevelopmental deficits	26
+neuropsychiatric illness	26
+neuro-developmental disorder	26
+Parkinson's diseases	26
+Developmental disorders	26
+APS	26
+Williams	26
+CVI	26
+OC	26
+obsessive-compulsive behaviors	26
+pervasive neurodevelopmental disorder	26
+memory impairment	26
+arrest	26
+food intake disorder	26
+Diabetes	26
+menarche	26
+chronic illness	26
+autism brain	26
+alcohol dependence	25
+schizophrenia or autism	25
+dysmorphisms	25
+CTX	25
+hypsarrhythmia	25
+heart disease	25
+thyroid dysfunction	25
+Mental disorders	25
+hypospadias	25
+chronic disease	25
+NPD	25
+cryptorchidism	25
+Rubinstein-Taybi syndrome	25
+autosomal dominant disorder	25
+malignancies	25
+osteoporosis	24
+cognitive abnormalities	24
+sleep deprivation	24
+hyporesponsiveness	24
+psychotic illness	24
+cognitive ability	24
+heart failure	24
+cognitive delays	24
+cerebellar lesions	24
+WMS	24
+hemiplegia	24
+craniofacial anomalies	24
+Traumatic Stress	24
+falling asleep	24
+Bipolar disorder	24
+tuberous sclerosis complex	24
+PSD	24
+compulsivity	24
+focal epilepsy	24
+CTD	24
+obstructive sleep apnea	24
+Anxiety Disorders	24
+autistic girls	24
+Schaaf-Yang syndrome	24
+epilepsy and autism	24
+cognitive dysfunctions	24
+neurocognitive disorders	24
+Parkinson	24
+Gastrointestinal symptoms	23
+neurocognitive deficits	23
+obsessive-compulsive disorders	23
+SLD	23
+Kabuki syndrome	23
+Depressive Disorder	23
+Prader-Willi/Angelman syndrome	23
+multiple congenital anomalies	23
+MCA	23
+compulsive behavior	23
+asphyxia	23
+sleep apnea	23
+impulsiveness	23
+neurogenetic disorder	23
+parasomnias	23
+Aggression	23
+autosomal recessive disorder	23
+Attention-deficit hyperactivity disorder	23
+behavioral dysfunction	23
+FA	23
+Autism Symptoms	23
+hypoglycemia	23
+ADHD symptoms	23
+hyperthermia	23
+brain inflammation	23
+motor impairment	23
+allergic diseases	23
+extrapyramidal symptoms	23
+Autism symptoms	23
+infectious disease	23
+neurodevelopment disorder	23
+polycystic ovary syndrome	23
+Death	23
+WHS	23
+ulcerative colitis	23
+craniofacial dysmorphism	23
+congenital blindness	23
+gastrointestinal disturbances	23
+paranoia	22
+leukemia	22
+Obsessive Compulsive Disorder	22
+unipolar depression	22
+behavioral symptoms	22
+attention-deficit disorder	22
+developmental defects	22
+system dysfunction	22
+Attention Deficit Hyperactivity	22
+sensory impairment	22
+AutD	22
+autisms	22
+CFD	22
+hyperglycemia	22
+POI	22
+C deficiency	22
+hearing-impaired	22
+tonic-clonic seizures	22
+apnea	22
+functional abnormalities	22
+visual perception	22
+bipolar I disorder	22
+tactile defensiveness	22
+metabolic disorder	22
+gliosis	22
+maternal depression	22
+hypomyelination	22
+multisystem disorder	22
+learning impairments	22
+creatine transporter deficiency	22
+white matter injury	22
+word learning	22
+autism and depression	22
+arrhythmias	22
+autism or schizophrenia	22
+anxiety symptoms	22
+childhood disintegrative disorder	22
+Autism Speaks Autism	21
+learning and memory deficits	21
+autistic tendency	21
+Developmental Language Disorder	21
+hypertrophy	21
+central nervous system disorders	21
+ptosis	21
+dysarthria	21
+Constipation	21
+ischemia	21
+developmental neuropsychiatric disorders	21
+Neurodegeneration	21
+behavioral impairment	21
+developmental delay without autism	21
+Autism-Spectrum	21
+CAH	21
+behavioral disturbances	21
+LEA	21
+encephalopathies	21
+CI	21
+HH	21
+cerebellar ataxia	21
+abnormal behaviors	21
+Trauma	21
+autistic mannerisms	21
+CDH	21
+Cognitive impairment	21
+sleepiness	21
+psychopathic traits	21
+cardiomyopathy	21
+hyperlocomotion	21
+neurologic diseases	21
+delirium	21
+cytotoxicity	21
+neonatal hypotonia	21
+KD	21
+psoriasis	21
+HHE	21
+IBS	21
+Tuberous Sclerosis	21
+pulmonary hypertension	21
+virus infection	20
+BIP	20
+adenylosuccinate lyase deficiency	20
+optic nerve hypoplasia	20
+SSDs	20
+Tourette Syndrome	20
+hypertensive disorders	20
+PMDS	20
+SEGAs	20
+neurological and psychiatric disorders	20
+neurological impairment	20
+neuronal damage	20
+eczema	20
+inferior longitudinal fasciculus	20
+schizophrenia spectrum disorder	20
+tetanus	20
+anomalies	20
+skills deficits	20
+embryonic	20
+developmental impairments	20
+repetitive behavior	20
+Cohen syndrome	20
+cognitive difficulties	20
+atherosclerosis	20
+genetic syndromes	20
+neuropathy	20
+autism behavior	20
+dendritic spine	20
+ear infections	20
+Tourette's disorder	20
+sepsis	20
+tumour	20
+disruptive mood dysregulation disorder	20
+GDD	20
+Joubert syndrome	20
+neuroinflammation	20
+autism and autism spectrum disorders	20
+amnesia	19
+sclerosis	19
+urinary incontinence	19
+coaching	19
+DVD	19
+upper lip	19
+cognition deficits	19
+syndactyly	19
+compulsions	19
+autonomic dysfunction	19
+Autism Traits	19
+SIBS-TD	19
+HG	19
+aneuploidies	19
+Cerebral palsy	19
+PA	19
+head injury	19
+AF	19
+AE	19
+neuro-inflammation	19
+Infections	19
+autistic perception	19
+DTaP	19
+X-linked neurodevelopmental disorder	19
+congenital abnormalities	19
+insufficiently	19
+nervous system disorders	19
+developmental deficits	19
+embryonic brain	19
+Neurological disorders	19
+cataract	19
+tinnitus	19
+Dysbiosis	19
+cataracts	19
+social abnormalities	19
+fibromyalgia	19
+Sleep Disorders	19
+empathy deficits	18
+RB	18
+myotonic dystrophy	18
+HL	18
+brain dysfunctions	18
+visual working memory	18
+autistic tendencies	18
+coeliac disease	18
+spinal cord injury	18
+neurodevelopmental	18
+social phobia	18
+high functioning autism	18
+VI	18
+autistic-spectrum disorders	18
+long QT syndrome	18
+inborn error of metabolism	18
+CHAT	18
+T2D	18
+autism behaviors	18
+Gastrointestinal Symptoms	18
+preterm labor	18
+attentional deficits	18
+Deficiency	18
+GDM	18
+autism status	18
+behavioral defects	18
+disordered sleep	18
+HS	18
+malabsorption	18
+craniosynostosis	18
+dyskinesia	18
+CDD	18
+EE	18
+hypofunction	18
+body dysmorphic disorder	18
+allergic rhinitis	18
+Coaching	18
+disruptive behavior disorder	18
+PTEN hamartoma tumor syndrome	18
+immunodeficiency	18
+bradycardia	18
+idiopathic generalized epilepsy	18
+HIE	18
+autism-epilepsy	18
+muscle weakness	18
+ischemic stroke	18
+myoclonic seizures	17
+NDI	17
+overdose	17
+coronavirus disease 2019	17
+astrogliosis	17
+TLE	17
+Prader-Willi and Angelman syndromes	17
+lifelong neurodevelopmental disorder	17
+motor disorders	17
+autistic males	17
+dyskinesias	17
+neuronal disorders	17
+chromosomal anomalies	17
+lung cancer	17
+CA	17
+heart defects	17
+Noonan syndrome	17
+BDMR	17
+idiopathic ASD	17
+CHildhood Autism	17
+pneumonia	17
+traumas	17
+muscular dystrophy	17
+Achenbach	17
+autistic syndromes	17
+psychopathic tendencies	17
+adolescent psychiatric disorders	17
+neurological impairments	17
+hypocalcemia	17
+rash	17
+Pervasive Developmental	17
+GI disease	17
+Infantile autism	17
+DiGeorge	17
+traumatic stress	17
+tardive dyskinesia	17
+ADSL deficiency	17
+IED	17
+developmental language delay	17
+SCI	17
+autism and fragile X syndrome	17
+neuropsychiatric symptoms	17
+bulimia nervosa	17
+Kawasaki disease	17
+startle reflex	17
+Asperger disorder	17
+attention deficit disorders	17
+autism or pervasive developmental disorder	17
+Autism Dev Disord	17
+fetal alcohol syndrome	17
+GERD	17
+maternal obesity	17
+food neophobia	16
+type 2 diabetes	16
+COVID	16
+Hypersensitivity	16
+syndrome	16
+ADOS	16
+Bipolar Disorder	16
+FCD	16
+auditory hallucinations	16
+migraines	16
+dysautonomia	16
+mitochondrial diseases	16
+brain lesions	16
+major depressive disorder	16
+bacterial infection	16
+sensorimotor impairments	16
+enterocolitis	16
+autism and dyslexia	16
+mental disease	16
+Sanfilippo syndrome	16
+cross-syndrome	16
+PHTS	16
+atopic diseases	16
+carnitine deficiency	16
+hyperactivity-impulsivity	16
+autism and pervasive developmental disorder	16
+Pervasive Developmental Disorders Autism	16
+diarrhoea	16
+Mendelian disorders	16
+Timothy Syndrome	16
+learning algorithms	16
+neuronal death	16
+central nervous system (CNS) disorders	16
+premature ovarian failure	16
+brain tumor	16
+PKD	16
+impaired social skills	16
+benign tumors	16
+dysfunctions	16
+Hyperlexia	16
+dysphagia	16
+COPD	16
+WAGR syndrome	16
+Fragile-X syndrome	16
+attention deficit hyperactivity	16
+sexual behaviors	16
+cardiac anomalies	16
+Bainbridge-Ropers syndrome	16
+joint attention behaviors	16
+cognitive behavior	16
+ES	16
+Rett's syndrome	16
+CDS	16
+rhabdomyolysis	16
+epileptic seizure	16
+bipolar depression	16
+autism and macrocephaly	16
+neonatal encephalopathy	16
+OSA	16
+DB	16
+amygdala lesions	16
+EDS	15
+Autism Spectrum Condition	15
+sleep difficulties	15
+TDI	15
+cerebellar damage	15
+synostosis	15
+hyperresponsiveness	15
+malnutrition	15
+hemorrhage	15
+congenital adrenal hyperplasia	15
+growth abnormalities	15
+MAE	15
+impaired social cognition	15
+neuronal hyperexcitability	15
+hyperactivity disorder	15
+white matter lesions	15
+trigonocephaly	15
+classic Rett syndrome	15
+parental psychiatric	15
+tauopathy	15
+edema	15
+attention deficit hyperactive disorder	15
+externalizing disorders	15
+BN	15
+Phenylketonuria	15
+hypothalamic-pituitary-adrenal axis	15
+falling	15
+peripheral neuropathy	15
+SDD	15
+OHD	15
+overgrowth	15
+regressive autism	15
+sleep behaviors	15
+embryopathy	15
+WMI	15
+cough	15
+ANX	15
+cardiac arrest	15
+craniofacial abnormalities	15
+neuronal loss	15
+QT prolongation	15
+disability syndrome	15
+Learning Disabilities	15
+hyperkinetic disorder	15
+melanoma	15
+CPs	15
+developmental diseases	15
+muscular hypotonia	15
+telencephalic	15
+hyper-responsiveness	15
+hirsutism	15
+RASopathy	15
+alcohol abuse	15
+ECHO Autism	15
+optic atrophy	15
+speech delay	15
+autistic-like social deficits	15
+dyslipidemia	15
+ALD	15
+XLMR	15
+restless legs syndrome	15
+neurofibromatosis	15
+Mental Illness	15
+epileptiform EEG abnormalities	15
+autistic social impairment	15
+chronic kidney disease	15
+cognitive and behavioral deficits	15
+neurobehavioral deficits	15
+dysplasia	15
+Microcephaly	15
+LFS	15
+glucose metabolism	15
+WAGR	15
+disorder	15
+Parkinson's Disease	15
+autism and developmental disabilities	15
+NAFLD	15
+BED	15
+brain injuries	15
+syncope	14
+non-syndromic autism	14
+autism syndrome	14
+psychoses	14
+arrhythmia	14
+intestinal inflammation	14
+periodontal disease	14
+schizotypal personality disorder	14
+Maternal obesity	14
+akathisia	14
+attention disorders	14
+dendritic	14
+sleep abnormalities	14
+PDD-NOS	14
+SA	14
+eye movement sleep	14
+forensic psychiatric	14
+malignancy	14
+broad autism	14
+attachment disorder	14
+vision impairment	14
+autoimmune disorder	14
+gastrointestinal diseases	14
+cortical dysfunction	14
+velocardiofacial syndrome	14
+genetic neurodevelopmental disorder	14
+dysmenorrhea	14
+absence seizures	14
+bacterial infections	14
+LDs	14
+repetitive behavior symptoms	14
+abnormalities	14
+hyperkinetic	14
+AUD	14
+longitudinal	14
+PSP	14
+Nova Scotia	14
+Anorexia nervosa	14
+neurological defects	14
+myocardial infarction	14
+gait abnormalities	14
+BPSD	14
+multifactorial disorder	14
+memory deficit	14
+neonatal seizures	14
+sensorimotor deficits	14
+brachydactyly	14
+behavioral anomalies	14
+metabolic disease	14
+Wolf-Hirschhorn syndrome	14
+analgesia	14
+visual impairments	14
+right ILF	14
+appendicitis	14
+Obesity	14
+Developmental disabilities	14
+Costello syndrome	14
+GAMT deficiency	14
+Albania	14
+X-linked disorder	14
+TTB	14
+subependymal giant cell astrocytomas	14
+developmental language impairment	14
+cerebellar malformations	14
+epileptic syndrome	14
+congenital CMV infection	14
+gastrointestinal disease	13
+language abilities	13
+SAs	13
+facial emotion perception	13
+developmental cognitive neuroscience	13
+dizziness	13
+Mobius syndrome	13
+Huntington disease	13
+clumsiness	13
+behavioural disorders	13
+Coffin-Siris syndrome	13
+auditory processing disorder	13
+social behavior deficits	13
+fragile x syndrome	13
+velo-cardio-facial syndrome	13
+convulsive	13
+VT	13
+amygdala dysfunction	13
+HIV	13
+TMD	13
+auditory-visual	13
+disruptive behaviour disorders	13
+schizophrenia and epilepsy	13
+colitis	13
+middle frontal gyrus	13
+Wilson	13
+social-cognitive skills	13
+brain atrophy	13
+respiratory distress	13
+Chromosomal abnormalities	13
+Autism and autism spectrum disorders	13
+palate	13
+congenital disorder	13
+painful	13
+inherited intellectual disability	13
+A deficiency	13
+trichotillomania	13
+Cognitive Impairment	13
+cognition	13
+macroorchidism	13
+epilepsy syndrome	13
+PMD	13
+AI	13
+dysmetria	13
+Cornelia de Lange Syndrome	13
+duplication syndrome	13
+neurodevelopmental symptoms	13
+congenital diaphragmatic hernia	13
+social-cognitive deficits	13
+ARFID	13
+social impairment	13
+cognitive flexibility	13
+genetic abnormality	13
+OCSD	13
+gingivitis	13
+MHD	13
+language deficit	13
+cleft lip	13
+myoclonic	13
+retinopathy	13
+Schizophrenia and autism	13
+autism and pervasive developmental disorders	13
+impaired cognition	13
+congenital heart defect	13
+hypercalcemia	13
+neurobehavioral disorder	13
+dendritic arbors	13
+hyperplasia	13
+mitochondrial abnormalities	13
+ADs	13
+impaired cognitive	13
+non-syndromic intellectual disability	13
+congenital disorders	13
+dyslexic	13
+liver disease	13
+LFA	13
+dystrophinopathies	13
+sleep habits	13
+Hypertension	13
+type 1 diabetes	13
+pervasive neurodevelopmental disorders	13
+NPDs	13
+hypnosis	13
+FAS	13
+DiGeorge syndrome	13
+Hyperserotonemia	13
+tactile impairment	13
+poisoning	13
+British Columbia	13
+mental disability	13
+DS	13
+autism awareness	13
+agoraphobia	13
+platelet aggregation	13
+myopathy	13
+Sensory abnormalities	13
+Aut	13
+autism or autism spectrum disorder	13
+hypothalamic-pituitary-adrenal	13
+rich-club	13
+Attention deficit/hyperactivity disorder	13
+episodic ataxia	13
+epileptic syndromes	12
+bowel symptoms	12
+social-communication deficits	12
+OSAS	12
+impaired learning and memory	12
+QTc prolongation	12
+dendritic growth	12
+fetal alcohol spectrum disorders	12
+Lesch-Nyhan disease	12
+ASD+ID	12
+hearing impairments	12
+Mental Disorder	12
+infantile hypotonia	12
+familial autism	12
+tic symptoms	12
+loss of skills	12
+semialdehyde dehydrogenase deficiency	12
+deficits of autism	12
+social anxiety disorder	12
+hyperactive-impulsive	12
+mTORopathies	12
+intestinal dysbiosis	12
+Developmental delay	12
+Neurological Diseases	12
+Dendritic	12
+language-impaired	12
+contiguous gene syndrome	12
+OVID	12
+acidemia	12
+cognition impairments	12
+impaired communication skills	12
+Bosch-Boonstra-Schaaf optic atrophy syndrome	12
+neuronal degeneration	12
+TB	12
+type 2 diabetes mellitus	12
+hyperandrogenism	12
+change blindness	12
+auditory dysfunction	12
+ND-GD	12
+psychopathic	12
+cardiac rhabdomyomas	12
+amygdala damage	12
+subependymal nodules	12
+hypotension	12
+chorea	12
+channelopathy	12
+visual illusions	12
+LCMV	12
+Social deficits	12
+autistic pupils	12
+Phelan McDermid Syndrome	12
+immune abnormalities	12
+GI dysfunction	12
+Cognitive deficits	12
+amenorrhea	12
+male infertility	12
+hoarding symptoms	12
+emotional deficits	12
+Wilms tumor	12
+language abnormalities	12
+attention-deficit/hyperactivity disorders	12
+periventricular leukomalacia	12
+overgrowth syndrome	12
+hyperlipidemia	12
+hemiparesis	12
+VSDs	12
+BRPS	12
+behavioral abnormality	12
+CRD	12
+DHS	12
+Pitt-Hopkins Syndrome	12
+stillbirth	12
+rupture	12
+repetitive behaviors in autism spectrum disorders	12
+nutritional deficiency	12
+Lesch-Nyhan syndrome	12
+Neonatal jaundice	12
+childhood psychiatric disorders	12
+IGE	12
+mood symptoms	12
+FXPOI	12
+Autism Brain	12
+hypocholesterolemia	12
+neurotic	12
+Fever	12
+Autistic symptoms	12
+inflammatory disorders	12
+autistic adolescents	12
+skeletal abnormalities	12
+cortical abnormalities	12
+schizophrenic disorders	12
+hypoactivity	12
+swelling	12
+ANSD	12
+dysphoric	12
+autism and catatonia	12
+Fetal Alcohol Spectrum Disorder	12
+idiopathic mental retardation	12
+developmental impairment	12
+NMS	12
+congenital hypothyroidism	12
+multiple disorders	12
+thyroid disease	12
+metabolic dysfunction	12
+AIDS	12
+tic	12
+chronic tic disorder	12
+nonsyndromic ASD	12
+chronic fatigue syndrome	12
+convulsion	12
+neural tube defects	12
+hypovitaminosis	12
+autism or autism spectrum disorders	12
+hypomelanosis	11
+classic autism	11
+coma	11
+ISS	11
+behavioral syndrome	11
+Riley-Ruvalcaba syndrome	11
+toxicities	11
+bipolar mania	11
+neuronal diseases	11
+learning deficit	11
+Autism Spectrum Disorder Symptoms	11
+memory recall	11
+hypothalamic-pituitary-adrenal (HPA) axis	11
+High Functioning Autism Spectrum Disorders	11
+glaucoma	11
+behavioral dysfunctions	11
+Depressive symptoms	11
+psychiatric disturbances	11
+JS	11
+insomnia symptoms	11
+fecal incontinence	11
+parasomnia	11
+hypopituitarism	11
+multiplex autism	11
+delusional disorder	11
+CIN	11
+emotional impairments	11
+hoarding disorder	11
+thrombocytopenia	11
+Toxicity	11
+White-Sutton syndrome	11
+frontal lobe dysfunction	11
+hyperprolactinaemia	11
+IHC	11
+simplex autism	11
+autism cerebellum	11
+speech disorder	11
+glioblastoma	11
+dendritic arbor	11
+Autism and Epilepsy	11
+neurofibromas	11
+ICD	11
+neurodevelopmental damage	11
+Amyotrophic Lateral Sclerosis	11
+emotional abuse	11
+FM	11
+left inferior frontal gyrus	11
+autism and attention-deficit/hyperactivity disorder	11
+chromosomal disorder	11
+AN-R	11
+BDD	11
+CSS	11
+Sturge-Weber syndrome	11
+brain trauma	11
+vision loss	11
+JME	11
+nonsyndromic autism	11
+autistic enterocolitis	11
+astigmatism	11
+mental illnesses	11
+inflammatory bowel diseases	11
+autistic youth	11
+mucositis	11
+Parkinsonism	11
+Rigidity	11
+emotion words	11
+schizoid personality disorder	11
+disorders	11
+autism and developmental delay	11
+neuro-psychiatric disorders	11
+neuronal migration	11
+obsessive-compulsive personality disorder	11
+allergic disease	11
+ventricular enlargement	11
+spinal muscular atrophy	11
+impulsive behavior	11
+endometriosis	11
+social communication disorder	11
+Respiratory sinus arrhythmia	11
+myoclonus	11
+Infantile spasms	11
+platelet hyperserotonemia	11
+genetic defect	11
+mentally retarded autistic	11
+neighborhood deprivation	11
+autistic cognition	11
+behavior abnormalities	11
+Mood disorders	11
+Neurodegenerative Diseases	11
+autism-friendly	11
+Depressive Symptoms	11
+polydipsia	11
+FN	11
+TDs	11
+low autistic traits	11
+Developmental coordination disorder	11
+ventral telencephalon	11
+GD	11
+impaired memory	11
+mUPD	11
+alcohol use disorder	11
+LAD	11
+XYY	11
+Pervasive developmental disorder	11
+meningitis	11
+Autism Spectrum disorder	11
+gastrointestinal abnormalities	11
+somatic disorders	11
+cognitive functioning	11
+respiratory infections	11
+coaching sessions	11
+intellectual disability	11
+audiovisual	11
+IAs	11
+behavioral rigidity	11
+autism brains	11
+Celiac Disease	11
+CoV-2 infection	11
+tooth brushing	11
+gastritis	11
+mental disabilities	11
+familial aggregation	10
+psychopathology symptoms	10
+mental health disorders	10
+AMD	10
+Neurodevelopmental Disabilities	10
+arched eyebrows	10
+CBLH	10
+MCPH	10
+PAH	10
+ADHD-I	10
+intracerebral	10
+migraine without aura	10
+anxiety-depression	10
+schizophrenia-spectrum disorders	10
+Autism and epilepsy	10
+psychomotor developmental delay	10
+Autism and Schizophrenia	10
+bruising	10
+Huntington	10
+amyloidosis	10
+bipolar disease	10
+MEB	10
+developmental anomalies	10
+Autism Communication	10
+Silver-Russell syndrome	10
+ASCs	10
+rigid	10
+dysphasia	10
+LCA	10
+neuronal hypertrophy	10
+optic neuropathy	10
+vision	10
+cerebral folate deficiency	10
+GRD	10
+coronary artery disease	10
+autism Spectrum disorder	10
+hypercholesterolemia	10
+cerebral ischemia	10
+gynecomastia	10
+psychosexual	10
+arachnoid cysts	10
+paranoid schizophrenia	10
+congenital rubella syndrome	10
+neurologic disorder	10
+immunological abnormalities	10
+mentally ill	10
+neuropathies	10
+glial dysfunction	10
+speech impairment	10
+DNT	10
+septo-optic dysplasia	10
+degenerative diseases	10
+fraX	10
+bone pain	10
+SARS-CoV-2 infection	10
+respiratory failure	10
+Bannayan-Riley-Ruvalcaba syndrome	10
+splenial lesion	10
+attention deficit/hyperactivity disorders	10
+neuronal abnormalities	10
+gastric cancer	10
+SHFYNG	10
+phobias	10
+mental impairment	10
+neuropathological abnormalities	10
+developmental hyperserotonemia	10
+social cognition deficits	10
+enthusiasm	10
+behavioral disturbance	10
+hypertensive	10
+skin lesions	10
+syrup urine disease	10
+Motor impairments	10
+demyelination	10
+hyperekplexia	10
+Alzheimer's diseases	10
+cognitive and social deficits	10
+autism disease	10
+autism and bipolar disorder	10
+Sensory hypersensitivity	10
+tactile abnormalities	10
+fasciculi	10
+craniofacial	10
+obsessive-compulsive behavior	10
+neuronal dendritic	10
+neurologic deficits	10
+low functioning autism	10
+mitochondrial disorder	10
+blood glucose	10
+matter abnormalities	10
+congenital cytomegalovirus infection	10
+obsessive-compulsive traits	10
+insufficiencies	10
+Autism traits	10
+quasi-autism	10
+Atlanta Developmental Disabilities	10
+cognitive disturbances	10
+job loss	10
+HBL	10
+thrombosis	10
+DBDs	10
+autism-like social deficits	10
+social disorders	10
+Encephalopathy	10
+sleeping disorders	10
+cognitive defects	10
+tonic seizures	10
+Depressive	10
+developmental verbal dyspraxia	10
+chronic obstructive pulmonary disease	10
+cerebrovascular disease	10
+CSE	10
+schizophrenia and depression	10
+Fragile	10
+auditory discrimination	10
+CFS	10
+BOS	10
+Tourette disorder	10
+neurodegenerative	10
+dysmorphic facies	10
+Cold	10
+GS	10
+IEMs	10
+convulsive seizures	10
+dry eye	9
+Anhedonia	9
+lyase deficiency	9
+coronary heart disease	9
+homeopathy	9
+Language impairment	9
+tumor necrosis	9
+hfASDs	9
+neurologic dysfunction	9
+Ehlers-Danlos syndrome	9
+neurocognitive dysfunction	9
+autism-like behavioral deficits	9
+Autistic disorders	9
+Schizophrenia and Autism	9
+elevated autism	9
+visuospatial working memory	9
+Dravet syndrome	9
+autism spectrum behaviors	9
+developmental psychopathology	9
+Smith-Magenis Syndrome	9
+Autism Mental Status	9
+kidney disease	9
+sexual behavior	9
+subependymal	9
+neurological disability	9
+developmental dysphasia	9
+tooth-brushing	9
+disordered eating	9
+esophagitis	9
+bipolar illness	9
+subtle deficits	9
+High Functioning Autism Spectrum Disorder	9
+labor	9
+CL	9
+bowel dysfunction	9
+repetitive motor behaviors	9
+EU-AIMS Longitudinal European Autism	9
+HF	9
+hypersensitivities	9
+autistic impairments	9
+autism stigma	9
+neuroleptic malignant syndrome	9
+deficiency disorder	9
+multifactorial disorders	9
+EGIDs	9
+attention-deficit/hyperactivity	9
+visual stress	9
+allergic inflammation	9
+SIDS	9
+hypogonadism	9
+Social impairments	9
+allergic symptoms	9
+schizophrenia symptoms	9
+obsessive compulsive symptoms	9
+schizophrenia, autism spectrum disorders	9
+lactic acidosis	9
+ON	9
+Autism BrainNet	9
+AID	9
+HPL	9
+autistic impairment	9
+cognitive and behavioral impairments	9
+renal anomalies	9
+neurological damage	9
+Psychotic disorders	9
+Social communication deficits	9
+neuronal homeostasis	9
+autistic features	9
+congenital defects	9
+streptococcal infection	9
+febrile convulsion	9
+psychiatric syndromes	9
+gastroesophageal reflux disease	9
+acute lymphoblastic leukemia	9
+hemimegalencephaly	9
+dysmorphology	9
+audiovisual speech perception	9
+atonic seizures	9
+neurologic disease	9
+fibrosis	9
+attention-deficit hyperactivity disorders	9
+Compulsivity	9
+emotion dysregulation	9
+neuropsychiatric syndrome	9
+Cri du Chat syndrome	9
+CCA	9
+autism and neurodevelopmental disorders	9
+Multidimensional Anxiety	9
+ventricular septal defect	9
+neophobia	9
+focal seizures	9
+an	9
+SH	9
+birth asphyxia	9
+neonatal infection	9
+hematopoiesis	9
+autoimmune encephalitis	9
+growth failure	9
+behavioural abnormalities	9
+XXY	9
+RAD	9
+carcinogenesis	9
+hypertonia	9
+teaching skills	9
+adolescent depression	9
+gastrointestinal infections	9
+childhood abuse	9
+POAG	9
+dysplastic	9
+congenital hydrocephalus	9
+impaired emotion	9
+neonatal brain injury	9
+Neurodegenerative diseases	9
+inflammatory diseases	9
+Brain Disorders	9
+hyperkinetic disorders	9
+midface hypoplasia	9
+neuronal cell death	9
+spinocerebellar ataxias	9
+sleep disordered breathing	9
+focal cortical dysplasia	9
+gastrointestinal problems	9
+Miller-Dieker syndrome	9
+Kanner's syndrome	9
+ACC	9
+encephalitis/encephalopathy	9
+autism tendencies	9
+Multiple Sclerosis	9
+genetic epilepsies	9
+X-linked ichthyosis	9
+heart diseases	9
+UC	9
+disability disorders	9
+Disruptive Behavior Disorders	9
+IMD	9
+neurological complications	9
+visual loss	9
+cleft lip and palate	9
+epileptic disorder	9
+Asperger syndrome	9
+beta-ureidopropionase deficiency	9
+sudden cardiac death	9
+central nervous system diseases	9
+depression disorder	9
+mouth ulcers	9
+Attention Deficit and Hyperactivity Disorder	9
+pancreatitis	9
+autism and schizophrenia spectrum disorders	9
+Celiac disease	9
+cerebellar disorders	9
+Marshall-Smith syndrome	9
+tremors	9
+Becker muscular dystrophy	9
+neuronal injury	9
+maternal uniparental disomy	9
+intraocular	9
+common disorders	9
+autoimmune neuropsychiatric disorders	9
+neuronal soma	9
+ASD-ADHD	9
+cardiac defects	9
+tactile hypersensitivity	9
+fragile X-associated tremor ataxia syndrome	9
+hearing	9
+nervous system diseases	9
+memory dysfunction	9
+developmental brain disorder	9
+psychopathological disorders	9
+autism and language impairment	9
+vascular anomalies	9
+ALI	9
+hypokalemia	9
+VID	9
+cerebral atrophy	9
+autism participated	9
+LNS	9
+SCHZ	9
+eye abnormalities	9
+angiomyolipomas	9
+CCDS	9
+auditory abnormalities	9
+Williams-Beuren	9
+impaired social behavior	9
+systemic disease	9
+hypothyroxinemia	8
+PCH	8
+premature death	8
+developmental arrest	8
+Chorioamnionitis	8
+autism and Rett syndrome	8
+neurological syndromes	8
+pervasive development disorders	8
+neuronal dendrites	8
+schizophrenia or schizoaffective disorder	8
+autistic deficits	8
+lip	8
+neurodevelopmental toxicity	8
+brain tumours	8
+impairments in autism	8
+dystonic	8
+Classification of Disease	8
+haploinsufficiency syndrome	8
+low autistic	8
+autism spectrum	8
+ocular abnormalities	8
+CHD8 haploinsufficiency	8
+cognitive-behavioral	8
+autism core symptoms	8
+gastrointestinal (GI) symptoms	8
+CMD	8
+mental retardation syndromes	8
+A cross-syndrome	8
+non-syndromic ASD	8
+Autism Stigma	8
+chronic neurodevelopmental disorder	8
+neurocognitive impairments	8
+Repetitive behavior	8
+fragile X-associated primary ovarian insufficiency	8
+cardiac arrhythmia	8
+language developmental delay	8
+congenital infections	8
+microphthalmia	8
+hyperthyroidism	8
+impaired social communication	8
+developmental delays/disorders	8
+Movement disorders	8
+fragile X-associated disorders	8
+autistic adolescent	8
+developmental neuroscience	8
+inhibition deficits	8
+Amygdala dysfunction	8
+Tatton-Brown-Rahman syndrome	8
+ABC-irritability	8
+autistic behavioral symptoms	8
+sudden infant death syndrome	8
+Psychiatric	8
+Drosophila neuromuscular junction	8
+brain abnormality	8
+epilepsy and autism spectrum disorders	8
+cognitive disorder	8
+Dendritic Spines	8
+gastrointestinal dysfunctions	8
+audiovisual synchrony	8
+learning and memory	8
+neurodevelopmental dysfunction	8
+epileptic disorders	8
+autism-related disorders	8
+enthusiastic	8
+DRE	8
+multifactorial diseases	8
+facial anomalies	8
+renal cysts	8
+osteosarcoma	8
+ASTs	8
+fasciculation	8
+osteomyelitis	8
+incoordination	8
+rich club	8
+inherited disorders	8
+acne	8
+neuro-psychiatric	8
+attention-deficit/hyperactivity-disorder	8
+genetic epilepsy	8
+chromosome abnormality	8
+deficit hyperactivity disorder	8
+RMD	8
+cognitive and language skills	8
+Fragile-X	8
+autistic behaviour	8
+allergic asthma	8
+Autistic Symptoms	8
+FMR1	8
+language disability	8
+WAS	8
+Schizophrenic	8
+impaired spatial memory	8
+vascular dementia	8
+FGIDs	8
+IFOF	8
+memory disorders	8
+Maternal depression	8
+acoustic startle	8
+cognitive flexibility deficits	8
+SOD	8
+growth hormone deficiency	8
+allergic reactions	8
+idiopathic developmental delay	8
+sleep-wake disorders	8
+xerophthalmia	8
+memory skills	8
+aplasia	8
+iAUT	8
+renal disease	8
+HLHS	8
+fragile-X	8
+cardiovascular abnormalities	8
+hepatic encephalopathy	8
+pitch memory	8
+placental dysfunction	8
+attachment disorders	8
+macrocrania	8
+Psychiatric Symptoms	8
+Lethargy	8
+X-linked dominant disorder	8
+PD-ADS	8
+ISB	8
+GPI	8
+FGID	8
+NeP	8
+depressive illness	8
+antiphospholipid syndrome	8
+traumatic injury	8
+mental dysfunction	8
+FMD	8
+autistic psychopathy	8
+catatonic schizophrenia	8
+cardiac abnormalities	8
+GCase	8
+PCD	8
+academic failure	8
+neonatal hyperbilirubinemia	8
+Infantile Autism	8
+syncopes	8
+attention-deficit hyperactivity	8
+mental deficiency	8
+milk allergy	8
+Duchenne	8
+neurobehavioral diseases	8
+diabetes insipidus	8
+system abnormalities	8
+obsessive compulsive	8
+cognitive and emotional empathy	8
+jaw	8
+DSE	8
+Epileptic seizures	8
+visual learning	8
+renal abnormalities	8
+hypodontia	8
+lymphedema	8
+intracranial hemorrhage	8
+AV block	8
+language impairment in autism	8
+behaviorally defined disorder	8
+hEDS	8
+Kanner autism	8
+palsy	8
+hepatitis	8
+malaria	8
+optic dysplasia	8
+pervasive impairments	8
+sensorineural deafness	8
+CRC	8
+neurodisabilities	8
+PSY	8
+LEOPARD syndrome	8
+gestational diabetes mellitus	8
+neurodevelopmental and psychiatric disorders	8
+deficits in autism	8
+postnatal hypothyroidism	8
+MPS-IH	8
+hypoxic-ischemic encephalopathy	8
+sleep dysfunction	8
+mental health disorder	8
+band abnormalities	8
+FD	8
+JVA	8
+Tuberous sclerosis complex	8
+Crohn disease	8
+CdCs	8
+autism in California	8
+idiopathic epilepsy	8
+L-2-hydroxyglutaric aciduria	8
+developmental encephalopathies	8
+hyperserotonemic	8
+binge eating disorder	8
+congenital malformation	8
+offspring ASD	8
+mesencephalic	8
+neuropathology of autism	8
+irritability symptoms	8
+Joseph	8
+OCB	8
+nephropathy	8
+schizophrenia and mood disorders	8
+impulsive aggression	8
+liver dysfunction	8
+sleep deficits	8
+WHSUS	8
+autism and Williams syndrome	8
+Babies-Learning	8
+LTD	8
+Lhermitte-Duclos disease	8
+HIV-infected	8
+LENK	8
+Tourette's Syndrome	8
+Huntington's Disease	8
+childhood disorder	8
+cardiovascular disorders	8
+autistic-like deficits	8
+brain cancer	8
+CF	8
+skeletal anomalies	8
+hypolocomotion	8
+CDG	8
+auditory perception	8
+obsessive-compulsive spectrum disorders	8
+Gastrointestinal dysfunction	8
+disabilities and autism	8
+Autism and schizophrenia	8
+hearing impaired	8
+sexual dysfunction	7
+FI	7
+Epileptic spasms	7
+neurodevelopmental disorder Angelman syndrome	7
+defensive behaviors	7
+developmental retardation	7
+hypermobility syndrome	7
+Blastocystis	7
+neurodegenerative and neurodevelopmental disorders	7
+inherited diseases	7
+psychotic episode	7
+gait ataxia	7
+optic nerve atrophy	7
+autism and developmental disorders	7
+ileo-colonic lymphoid nodular hyperplasia	7
+eye movements	7
+impaired attention	7
+sleep-disordered breathing	7
+Sleep disturbance	7
+neurological and developmental disorder	7
+Schizophrenia Spectrum Disorders	7
+social skills deficits	7
+postnatal microcephaly	7
+acidosis	7
+dysmorphic craniofacial	7
+brain infections	7
+RHI	7
+Depression Anxiety Stress	7
+facial palsy	7
+joint contractures	7
+macrocephaly/autism syndrome	7
+Rett's disorder	7
+Abnormal auditory	7
+autism or epilepsy	7
+dysfunctional behaviors	7
+high-arched palate	7
+RSTS	7
+deficit of autism	7
+idic(15) syndrome	7
+Epileptic	7
+flash illusion	7
+cardiac anxiety	7
+Social anxiety disorder	7
+dyshomeostasis	7
+spina bifida	7
+parental depressive symptoms	7
+HCM	7
+Dyslexia	7
+substance abuse disorders	7
+respiratory disease	7
+MCDs	7
+right inferior frontal gyrus	7
+High-Functioning Autism Spectrum Disorders	7
+empathy deficit	7
+drowsiness	7
+autism genetic	7
+hyperkinesis	7
+ABC	7
+Social Deficits	7
+colon	7
+Cerebellar abnormalities	7
+speech abnormalities	7
+hyperactive/impulsive symptoms	7
+psychopathy and autism	7
+slowness	7
+Fetal alcohol spectrum disorders	7
+SyDLI	7
+facial weakness	7
+HF-rTMS	7
+hypercalculia	7
+social deficits and repetitive behaviors	7
+syndromic disorders	7
+autism, schizophrenia, bipolar disorder	7
+allodynia	7
+numerous diseases	7
+Turner's syndrome	7
+novel neurodevelopmental disorder	7
+cADHD	7
+IJO	7
+DSM-IV autistic disorder	7
+Hypotonia	7
+neurobehavioural disorders	7
+EHEC	7
+postnatal growth retardation	7
+psychosexual problems	7
+Iron deficiency	7
+IDA	7
+iron deficiency anemia	7
+autism and cerebral palsy	7
+iPSYCH	7
+H MRS	7
+JIA	7
+brain enlargement	7
+Alzheimer's dementia	7
+birth defect	7
+psychosocial dysfunction	7
+dysmorphic facial features	7
+non-syndromic autism spectrum disorder	7
+inborn errors	7
+tachycardia	7
+neurological and developmental disorders	7
+progressive supranuclear palsy	7
+schizophrenia or bipolar disorder	7
+dendritic spine remodeling	7
+autistic psychopathology	7
+CAD	7
+FS	7
+achondroplasia	7
+bladder dysfunction	7
+delusional	7
+motor disorder	7
+behavior impairments	7
+obstruction	7
+paralysis	7
+savant syndrome	7
+HPI	7
+autistic regression	7
+empathy for pain	7
+AMPS	7
+H-MRS	7
+dyslexia and autism	7
+locomotor hyperactivity	7
+visual abnormality	7
+SISs	7
+hfASD	7
+visual abnormalities	7
+childhood neurodevelopmental disorders	7
+spine abnormalities	7
+Coronavirus disease 2019	7
+anoxia	7
+postnatal overgrowth	7
+coughing	7
+AHO	7
+demyelinating diseases	7
+sleep disruption	7
+cerebellar anomalies	7
+Childhood autism	7
+ITP	7
+atresia	7
+EpxDepression	7
+auditory processing deficits	7
+SEGA	7
+WE	7
+consciousness disorders	7
+Compulsive	7
+Autism and Williams syndrome	7
+autosomal dominant disease	7
+cerebral lesions	7
+T1D	7
+autistic language	7
+schizophrenia, schizoaffective disorder	7
+nonsyndromic mental retardation	7
+clinodactyly	7
+dilated cardiomyopathy	7
+cognitive impairment and autism	7
+macrosomia	7
+renal failure	7
+neuroinflammatory disorders	7
+communication abnormalities	7
+insufficient sleep	7
+behaviour disorder	7
+developmental syndrome	7
+ASD-R	7
+SDCS	7
+multi-system disorder	7
+empyema	7
+white matter disease	7
+hearing deficits	7
+Fragile X mental retardation	7
+Epileptic encephalopathies	7
+Learning Disorder	7
+hearing disorders	7
+neural abnormalities	7
+FAD	7
+Childhood Autism	7
+autism spectrum disease	7
+tonsillitis	7
+randomness	7
+cerebellar hemorrhagic injury	7
+attention-deficit/hyperactivity disorder symptoms	7
+mesothelioma	7
+rubella vaccination and autism	7
+Autism Spectrum disorders	7
+cyanosis	7
+dendritic spines	7
+deficits in empathy	7
+malformation syndrome	7
+hyperalgesia	7
+sleep-wake rhythms	7
+flame retardants	7
+hypomorphs	7
+neuro-psychomotor	7
+functional brain abnormalities	7
+paroxysmal kinesigenic dyskinesia	7
+schizophrenic disorder	7
+joint laxity	7
+syndromic autism spectrum disorders	7
+sensory defensiveness	7
+Hyperprolactinemia	7
+Cohen Syndrome	7
+hypotonic	7
+NHBI	7
+elevate	7
+neurocognitive impairment	7
+Autism-spectrum disorder	7
+high autism	7
+cortical dysplasias	7
+emotion recognition deficits	7
+renal angiomyolipomas	7
+vertebral anomalies	7
+Behavioral Deficits	7
+thalassemia	7
+cerebral malformations	7
+inappropriate sexual behaviors	7
+axonal degeneration	7
+CNS diseases	7
+autism increases	7
+CE	7
+hyperactive/impulsive	7
+CDKL5 deficiency disorder	7
+syndromic autism spectrum disorder	7
+macrocephalic	7
+language dysfunction	7
+inborn	7
+Cross-disorder	7
+Rubella	7
+cardiovascular malformations	7
+multisystem abnormalities	7
+colonic	7
+Attention Deficit Hyperactive Disorder	7
+neurocognitive disorder	7
+lupus	7
+Gastrointestinal disturbances	7
+RE	7
+nonsyndromic autism spectrum disorders	7
+goodness	7
+attentional impairments	7
+mitochondrial dysfunctions	7
+hyperhomocysteinemia	7
+ventricular fibrillation	7
+mastocytosis	7
+auditory processing disorders	7
+cognitive diseases	7
+hypoxia-ischemia	7
+ophthalmologic disorders	7
+irritability in autism	7
+loss of language	7
+movement abnormalities	7
+hay fever	7
+beta-gal	7
+parental depression	7
+schizoid PD	7
+childhood neurodevelopmental disorder	7
+vestibular dysfunction	7
+PTEN tumor	7
+psychomotor agitation	7
+atopic disease	7
+psychiatric disabilities	7
+SJS	7
+right inferior longitudinal fasciculus	7
+cognitive disease	7
+immunoexcitotoxicity	7
+ARID	7
+congenital visual impairment	7
+CFM	7
+lung disease	7
+abnormal dendritic	7
+GIS	7
+Duchenne Muscular Dystrophy	7
+facial dysmorphic	7
+Ohtahara syndrome	7
+hyperhidrosis	6
+duodenal atresia	6
+addictive disorders	6
+gastrointestinal (GI) abnormalities	6
+EC	6
+impulsive behaviors	6
+aseptic meningitis	6
+gastrointestinal (GI) disorders	6
+visual-visual	6
+CM-I	6
+Social Anxiety	6
+ventricular arrhythmias	6
+silencer	6
+intestinal disorders	6
+adolescent psychiatric disorder	6
+complex disorders	6
+ADHD-HFA	6
+dystrophinopathy	6
+autism have deficits	6
+error slowing	6
+infertile	6
+PANS	6
+neurological syndrome	6
+neurovascular coupling	6
+calcification	6
+autism without epilepsy	6
+basal cell carcinoma	6
+Autism and Attention-Deficit/Hyperactivity Disorder	6
+SC	6
+developmental psychiatric disorders	6
+Developmental Neurotoxicity	6
+memory loss	6
+impaired empathy	6
+parental autistic traits	6
+neurological deterioration	6
+Gastrointestinal disorders	6
+arrhythmic	6
+excess mouth	6
+endocrine dysfunction	6
+cardiovascular conditions	6
+Williams-Beuren Syndrome	6
+synaptopathy	6
+sleep initiation	6
+TTD	6
+LS	6
+Idiopathic Autism	6
+CAs	6
+neurological dysfunctions	6
+Brain abnormalities	6
+cardiac malformations	6
+Hypoxia	6
+ISs	6
+eosinophilic esophagitis	6
+Viral infection	6
+tumours	6
+multisystem genetic disorder	6
+neuronal defects	6
+hyperactive behaviors	6
+syndromic neurodevelopmental disorder	6
+impaired cognitive ability	6
+attention deficit/hyperactivity	6
+panic disorders	6
+learning and memory impairments	6
+cortical anomalies	6
+cognitive and emotional deficits	6
+Schizophrenia and autism spectrum disorder	6
+multifactorial disease	6
+mouth opening	6
+CHILD	6
+DUD	6
+impaired communication	6
+anxious/depressed	6
+volume abnormalities	6
+SCAs	6
+NMDs	6
+neurometabolic disorders	6
+neurologic abnormalities	6
+pressures	6
+language milestones	6
+depressive behavior	6
+leukodystrophy	6
+MKHK1	6
+primary ovarian insufficiency	6
+neurodegenerative and neuropsychiatric disorders	6
+neurodevelopmental difficulties	6
+impaired neurogenesis	6
+hyperactivity disorders	6
+brain malformation	6
+X-linked disorders	6
+ankylosing spondylitis	6
+glucose tolerance	6
+autism, schizophrenia and depression	6
+visual behavior	6
+visual behaviors	6
+deformities	6
+Neurodevelopmental disorder	6
+neuromuscular diseases	6
+mental impairment and autism	6
+metabolism abnormalities	6
+ABLE-Autism	6
+paroxysmal abnormalities	6
+AutCom	6
+MPN	6
+hyperactive behavior	6
+neurodevelopmental brain disorders	6
+eye anomalies	6
+hypothalamic paraventricular	6
+febrile seizures plus	6
+afebrile seizures	6
+hepatomegaly	6
+hypersomnia	6
+autism and learning disability	6
+congenital rubella	6
+Trisomy	6
+germinoma	6
+behavior disorder	6
+Communication deficits	6
+alexithymia traits	6
+Allergy	6
+Epilepsy and autism spectrum disorders	6
+hypomania	6
+anxiety behavior	6
+GA-I	6
+TXS	6
+Somnolence	6
+dermatitis	6
+Epilepsy and autism	6
+CHCs	6
+CFC	6
+social deficits in autism	6
+ischemic	6
+kyphoscoliosis	6
+Adenylosuccinate lyase deficiency	6
+autistic-like behavioral deficits	6
+holoprosencephaly	6
+BIE	6
+myelin damage	6
+mental delay	6
+Mendelian disease	6
+Facial emotion	6
+hereditary disorders	6
+abuse	6
+California Autism	6
+social-cognitive impairments	6
+X-linked intellectual disability	6
+Non-autistic	6
+schizoaffective disorder	6
+gastrointestinal (GI) dysfunction	6
+genetic lesions	6
+autism/pervasive developmental disorder	6
+central auditory processing disorders	6
+OCS	6
+sensorimotor behaviors	6
+hypertrophic	6
+respiratory diseases	6
+stenosis	6
+behavioral disabilities	6
+facial angiofibromas	6
+dysrhythmia	6
+Gilles de la Tourette Syndrome	6
+hypothyroid	6
+polygenic disorders	6
+neurotrauma	6
+autism spectrum conditions	6
+common disease	6
+gondii infection	6
+tiredness	6
+ocular disorders	6
+congenital cataract	6
+delay	6
+streptococcal infections	6
+myasthenia gravis	6
+impaired auditory	6
+Autism and Other Developmental Disabilities	6
+male autism	6
+Prader Willi syndrome	6
+VISS	6
+sensory symptoms	6
+hemiplegic migraine	6
+Williams' syndrome	6
+migraine with aura	6
+psychotic syndrome	6
+allostasis	6
+autistic cerebellum	6
+brachycephaly	6
+Type 2 Diabetes	6
+behavioral deficits in autism	6
+NDP	6
+Communication disorders	6
+Optic nerve hypoplasia	6
+Neurodevelopmental Disorder	6
+sexual disorders	6
+aUtIsm Traits	6
+hyponatremia	6
+CBMs	6
+deficits in joint attention	6
+autosomal dominant neurodevelopmental disorder	6
+neural dysfunction	6
+Moebius syndrome	6
+oral diseases	6
+restless sleep	6
+Tic Disorder	6
+developmental abnormality	6
+chronic tic disorders	6
+SCZD	6
+Autism-Epilepsy	6
+PWS-IC	6
+Ca	6
+'s disorder	6
+platelet hyperserotonemia of autism	6
+Cognitive Dysfunction	6
+psoriatic inflammation	6
+EPS	6
+SAH	6
+autism or fragile X syndrome	6
+hypoalgesia	6
+Sleep abnormalities	6
+sarcoma	6
+thyroid hormone insufficiency	6
+multiple neurodevelopmental disorders	6
+apraxia	6
+seizure reduction	6
+language loss	6
+locomotor behavior	6
+Social Communication Disorder	6
+attention deficits in autism	6
+hyperuricemia	6
+NICHD	6
+John Wiley	6
+chromosomal disorders	6
+acute pain	6
+Hepatitis B	6
+Mood Disorders	6
+hyperandrogenic	6
+working memory deficits	6
+impairments of autism	6
+hypothalamic hamartomas	6
+Behavioral abnormalities	6
+hearing defects	6
+intermittent explosive disorder	6
+EpxAutism	6
+congenital contractural arachnodactyly	6
+Autism Birth Cohort	6
+renal cell carcinoma	6
+autistic social deficits	6
+atonic	6
+hydronephrosis	6
+autism spectrum disorder behaviors	6
+infantile spasm	6
+familial mental retardation	6
+visual emotion	6
+pID	6
+respiratory disorders	6
+Brain disorders	6
+Social dysfunction	6
+elevated depression	6
+Schizophrenia and Autism Spectrum Disorders	6
+MRDS	6
+Psychiatric Diseases	6
+Febrile seizures	6
+decreased appetite	6
+Anemia	6
+epileptic aphasia	6
+PTA	6
+IAS	6
+Tic disorders	6
+disabilities and autism spectrum disorders	6
+liver failure	6
+tuberculosis	6
+attention-deficit/hyperactivity symptoms	6
+anxiety behaviors	6
+auditory working memory	6
+Legius syndrome	6
+kidney failure	6
+Manic Symptoms	6
+MTS	6
+LPB	6
+Kallmann syndrome	6
+DIT	6
+social communication impairment	6
+adaptive deficits	6
+Atopic dermatitis	6
+bipolar spectrum disorders	6
+cognitive deterioration	6
+Amyotrophic lateral sclerosis	6
+neurological and neurodevelopmental disorders	6
+intracranial hypertension	6
+polygenic disorder	6
+Motor dysfunction	6
+bipolar spectrum disorder	6
+Neuropsychiatric Diseases	6
+catatonic syndrome	6
+hyperkinetic movement disorder	6
+embryonic lethality	6
+autism and psychosis	6
+reduced empathy	6
+DLDs	6
+syndromic ID	6
+allergic disorders	6
+autistic behavioral	6
+neurodevelopmental delays	6
+Clancy Autism Behavior	6
+polyneuropathy	6
+BPAD	6
+Albright hereditary osteodystrophy	6
+social communication impairments	6
+autistic difficulties	6
+Posttraumatic Stress	6
+IUGR	6
+cardiorespiratory fitness	6
+Autism and Autism Spectrum Disorders	6
+degeneration	6
+impairments in autism spectrum disorders	6
+AV	6
+neurometabolic disorder	6
+abnormal repetitive behaviors	6
+Aniridia	6
+skeletal malformations	6
+cerebral hypoperfusion	6
+ischemic injury	6
+Language disorders	6
+CM	6
+stresses	6
+gene disorders	6
+Fragile X proteins	6
+multiple neuropsychiatric disorders	6
+empathy and alexithymia	6
+Mental Disorders-Fifth Edition	6
+Asthma	6
+dup(15) autism	6
+brain developmental disorder	6
+OBY	6
+dysthymia	6
+autosomal recessive disorders	6
+developmental psychopathology of autism	6
+MSUD	6
+congenital SEGA	6
+TLD	6
+PCDDs	6
+multifactorial neurodevelopmental disorder	6
+congenital deafblindness	6
+VABS	6
+SCID	6
+locomotor behaviors	6
+Lujan-Fryns syndrome	6
+decreased irritability	6
+mirror neuron dysfunction	6
+pervasive disorder	6
+rolandic epilepsy	6
+urticaria	6
+immunological disorders	6
+ODD/CD	6
+glutamatergic dysfunction	6
+Movement Disorders	6
+dyscalculia	6
+Learning Disorders	6
+neurodevelopmental anomalies	6
+Learning Disability	6
+corneal	6
+maternal infection	6
+genetic anomalies	6
+hereditary diseases	6
+behaviour disorders	6
+necrosis	6
+Fetal alcohol spectrum disorder	6
+failure	6
+cognitive alterations	6
+nonADHD	6
+Fatigue	6
+motor skill deficits	6
+NAS	6
+Attention Deficit/Hyperactivity	6
+sleep onset delay	6
+Deficits in Autism Spectrum Disorder	6
+MtD	6
+GDDs	6
+OCRDs	6
+gastrointestinal disorder	6
+schizophrenia-like psychosis	6
+autism education	6
+Developmental Coordination	6
+iAut	6
+syndromic neurodevelopmental disorders	6
+Brunner syndrome	6
+visual-auditory	6
+learning impairment	6
+colon cancer	6
+developmental dyspraxia	5
+major depression	5
+REM sleep	5
+brachydactyly mental retardation syndrome	5
+X-linked dominant neurodevelopmental disorder	5
+BWS	5
+quasi-autistic	5
+arthrogryposis	5
+abnormal brain enlargement	5
+gait disturbance	5
+hypersexual behaviors	5
+MRIA	5
+NFH	5
+hearing deficit	5
+Status epilepticus	5
+CCMs	5
+Lowe syndrome	5
+visual discrimination	5
+autistic phenomena	5
+endocrinopathy	5
+postnatal growth deficiency	5
+neuroimmune dysfunction	5
+oculomotor abnormalities	5
+SDDs	5
+rhombencephalosynapsis	5
+HHS	5
+MCDD	5
+neurobehavioral dysfunction	5
+autism related disorders	5
+HIV infection	5
+macrocephalus	5
+Autism, bowel inflammation	5
+disturbance	5
+impulsive symptoms	5
+EBV	5
+placenta accreta	5
+hypothalamic lesions	5
+SLS	5
+tick-borne diseases	5
+attention-deficit disorders	5
+FLD	5
+autism/autism spectrum disorder	5
+bifid uvula	5
+hyperactivity-inattention	5
+hypoglutamatergia	5
+Proteus syndrome	5
+autistic lymphoblasts	5
+Duchenne/Becker muscular dystrophy	5
+DI	5
+Complex Developmental Disorder	5
+dyspnoea	5
+back pain	5
+math disorders	5
+nerve injury	5
+bipolar mood disorder	5
+cognitive function	5
+myoclonic epilepsy	5
+Mendelian diseases	5
+empathy impairments	5
+mental retardation syndrome	5
+California births	5
+cerebrotendinous xanthomatosis	5
+frontal paroxysms	5
+syringomyelia	5
+sleep syndrome	5
+familial hemiplegic migraine	5
+FXGs	5
+Wilson's disease	5
+neonatal diabetes	5
+BRRS	5
+impairment of ocular abduction	5
+AIS	5
+bowel disease	5
+repetitive behaviors in autism	5
+hyperbilirubinaemia	5
+irritable behavior	5
+VD	5
+hyperacusia	5
+PNH	5
+PPD	5
+leukemias	5
+Gastrointestinal Disorders	5
+autism and Asperger disorder	5
+impaired behaviors	5
+Enuresis	5
+Birth defects	5
+ASD-E	5
+gliomas	5
+skills deficit	5
+Autism and mental retardation	5
+hallmark of autism	5
+AspD	5
+katatonia	5
+rigid-compulsive	5
+IAD	5
+auditory memory	5
+hyperlactacidemia	5
+anxious and depressive symptoms	5
+cardiometabolic disease	5
+nonsyndromic autism spectrum disorder	5
+unipolar major depression	5
+psychotic illnesses	5
+acute psychosis	5
+Hyporesponsiveness	5
+Renpenning syndrome	5
+peptiduria	5
+autism behavioral	5
+Traumatic Brain Injury	5
+Pisa syndrome	5
+hearing and visual impairments	5
+disruptive behavior problems	5
+neurologic syndromes	5
+Landau-Kleffner Syndrome	5
+cardiac diseases	5
+bronchopulmonary dysplasia	5
+brain structural abnormalities	5
+peripartum depression	5
+Language impairments	5
+language difficulties	5
+eating disorder symptoms	5
+leukaemia	5
+Language deficits	5
+attention-deficit/hyperactive disorder	5
+lip incompetence	5
+food allergic	5
+neurological conditions	5
+Myotonic dystrophy	5
+upper respiratory tract infection	5
+neurodegenerative conditions	5
+delay EBC	5
+Abnormal white matter	5
+communication deficits and repetitive behaviors	5
+irritability/aggression	5
+verbal dyspraxia	5
+dup(15) syndrome	5
+autism spectrum disorder (ASD) symptoms	5
+cognitive benefits	5
+Brain diseases	5
+convulsive status epilepticus	5
+autism, Fragile X syndrome	5
+NTDs	5
+anxious attachment	5
+Hypothalamus	5
+autism spectrum of disorders	5
+cardiofaciocutaneous syndrome	5
+syndromic forms of autism	5
+oral disorders	5
+retinitis pigmentosa	5
+retinal degeneration	5
+facial emotion	5
+nosocomial infections	5
+necrotizing enterocolitis	5
+central nervous system (CNS) diseases	5
+speech impairments	5
+carcinoma	5
+aggressive symptoms	5
+Bruxism	5
+Bohring-Opitz syndrome	5
+Primrose syndrome	5
+semialdehyde dehydrogenase (SSADH) deficiency	5
+SWM	5
+Disruptive Mood Dysregulation Disorder	5
+SDB	5
+C3(15)N1	5
+impaired cognitive flexibility	5
+autistic catatonia	5
+schizophrenic psychosis	5
+mucosal inflammation	5
+PSYCHIATRIC	5
+Johnson	5
+breath	5
+Depressive disorders	5
+hyporesponsive	5
+hypometabolism	5
+motor clumsiness	5
+NPC	5
+Repetitive Behaviors in Autism Spectrum Disorder	5
+seizures/epilepsy	5
+hyporeflexia	5
+Hypospadias	5
+endocarditis	5
+head trauma	5
+Abnormal brain	5
+DEB	5
+atopic disorders	5
+cardiac disease	5
+Autism Speaks	5
+California	5
+Parasomnias	5
+type II diabetes	5
+NIH Toolbox Cognition	5
+neurodevelopmentally	5
+Developmental language disorder	5
+autistic fantasy	5
+sensorimotor	5
+childhood obesity	5
+Autism awareness	5
+Migraine	5
+Aggressive behaviors	5
+ventricular hypertrophy	5
+macrocytic anemia	5
+Hypertensive disorders	5
+embryonic kidney	5
+apneas	5
+cocaine dependence	5
+brain toxicity	5
+deficit	5
+PSDs	5
+respiratory infection	5
+skin injuries	5
+pervasive development disorder	5
+autism or attention deficit hyperactivity disorder	5
+FG syndrome	5
+teacher stress	5
+tuberous sclerosis-associated neuropsychiatric disorders	5
+bone fractures	5
+Mucopolysaccharidosis type III	5
+Huntington's diseases	5
+dental abnormalities	5
+overgrowth syndromes	5
+Hydrocephalus	5
+developmental coordination disorders	5
+schizophrenia/schizoaffective disorder	5
+autism and attention-deficit hyperactivity disorder	5
+Motor abnormalities	5
+neurological developmental disorders	5
+mood disorder symptoms	5
+OC symptoms	5
+language impairment and autism spectrum disorders	5
+lifelong disorder	5
+teaching errors	5
+impaired cognitive function	5
+pericardial effusion	5
+attentional abnormalities	5
+OCRD	5
+BFIS	5
+Chronic Pain	5
+hypermetabolism	5
+Autism-Linked	5
+glucose homeostasis	5
+learning and memory impairment	5
+ring 14 syndrome	5
+handwriting impairments	5
+upper extremity trauma	5
+bowel diseases	5
+autism spectral disorder	5
+Congenital Cytomegalovirus Infection	5
+neurosis	5
+developmental epilepsy	5
+dyspnea	5
+low autism	5
+X-linked lissencephaly	5
+cognitive memory	5
+British Autism	5
+ventricular tachycardia	5
+Hyperacusis	5
+refractory depression	5
+focal epilepsies	5
+cortical visual impairment	5
+williams syndrome	5
+pain hypersensitivity	5
+multisensory deficits	5
+hypomelanotic	5
+eating disorder psychopathology	5
+learning disabilities and autism	5
+dehydration	5
+calculus	5
+neurological or psychiatric disorders	5
+SHANK3 deficiency	5
+Inborn errors of metabolism	5
+social developmental disorders	5
+lysosomal storage disorders	5
+frontal gyrus	5
+hyperresponsiveness, hyporesponsiveness	5
+muscle hypotonia	5
+empathy impairment	5
+idiopathic autism spectrum disorders	5
+Agitation	5
+diabetic complications	5
+CML	5
+Genetic abnormalities	5
+neurodevelopmental genetic disorder	5
+XGS	5
+hyperinsulinism	5
+SKS	5
+postnatal developmental disabilities	5
+impaired motor abilities	5
+cognitive and psychiatric disorders	5
+Nocturnal enuresis	5
+spastic paraplegia	5
+OKN	5
+death syndrome	5
+PRS	5
+job stress	5
+teaching autistic	5
+cerebellar cognitive affective syndrome	5
+neurodevelopmental disturbances	5
+hallmark of autism spectrum disorder	5
+DSM	5
+kernicterus	5
+anxious behavior	5
+immunodeficient	5
+disruptive disorders	5
+apathy	5
+neuromotor impairments	5
+autosomal dominant syndrome	5
+SAHA	5
+developmental cognitive disorders	5
+behavioral inflexibility	5
+thyroid cancer	5
+Tremor	5
+language impairment and autism	5
+dysmorphic face	5
+spermatogenic failure	5
+neurological and neuropsychiatric disorders	5
+autism in fragile X syndrome	5
+adenocarcinoma	5
+attentional dysfunction	5
+adjustment disorder	5
+autistic disease	5
+PTH	5
+handwriting skills	5
+CZS	5
+attention-deficit-hyperactivity-disorder	5
+parental anxiety	5
+autism and psychopathy	5
+Fibromyalgia	5
+eosinophilic colitis	5
+impaired sleep	5
+AlzGPS	5
+eruption	5
+IASD	5
+dis	5
+A-DF	5
+impaired sensorimotor	5
+Cognitive Rigidity	5
+neuromuscular disorders	5
+Congenital anomalies	5
+Dravet's syndrome	5
+ARDS	5
+cerebral creatine deficiency	5
+childhood autistic disorder	5
+psychiatric behaviors	5
+neuropsychiatric impairments	5
+brain creatine deficiency	5
+Cross-syndrome	5
+traumatic injuries	5
+auditory hypersensitivities	5
+inherited metabolic disorders	5
+neurobehavioral impairments	5
+Mthfr deficiency	5
+complex neurodevelopmental disorder	5
+irritability in autistic disorder	5
+polyps	5
+neonatal sepsis	5
+abnormal sleep	5
+GWG	5
+metastases	5
+abnormal brain	5
+developmental milestones	5
+defined neurodevelopmental disorder	5
+Autism Parenting Stress	5
+Stroke	5
+CHUU	5
+social cognitive deficits	5
+Mental illness	5
+inferior fronto-occipital fasciculus	5
+neuropsychiatric syndromes	5
+MDS	5
+autoimmune neuroinflammatory diseases	5
+coordination disorders	5
+hyperextensible joints	5
+Autistic Syndrome	5
+creatine deficiency syndromes	5
+autism and asthma	5
+periodontitis	5
+IH	5
+galvanic skin	5
+limb abnormalities	5
+neurodevelopmental syndromes	5
+neurological deficit	5
+hippocampal deficits	5
+mitochondria dysfunction	5
+psychosomatic symptoms	5
+premenstrual dysphoric disorder	5
+VABS-II	5
+Tic Disorders	5
+developmental defect	5
+drug use disorder	5
+hyper	5
+facial abnormalities	5
+Congenital heart defects	5
+irritability/agitation	5
+congenital deafness	5
+UPDs	5
+SC deficits	5
+vasculitis	5
+auditory disorders	5
+schizophrenia and autism-spectrum disorders	5
+Sensory impairments	5
+OI	5
+macroglossia	5
+open mouth	5
+dendritic overgrowth	5
+MHDs	5
+septic arthritis	5
+cerebellar diseases	5
+psychosocial disorders	5
+motor coordination deficits	5
+gingival bleeding	5
+Knobloch syndrome	5
+myeloid dendritic	5
+joint attention deficits	5
+macrocephaly and autism	5
+HSD	5
+dysplastic toenails	5
+inabilities	5
+auditory-visual conditional discrimination	5
+CLS	5
+liver damage	5
+schizophrenia, epilepsy	5
+X-linked creatine transporter deficiency	5
+FDD	5
+endocrine disorders	5
+creative cognition	5
+Smith-Lemli-Opitz Syndrome	5
+neurologic symptoms	5
+Neuropsychiatric Disease	5
+encephalon	5
+benign childhood epilepsy	5
+Autism Classification	5
+subtle abnormalities	5
+Prader-Willi and Angelman syndrome	5
+allergic conjunctivitis	5
+Inflammatory bowel disease	5
+Visual memory	5
+synaptic dysfunction	5
+immune deficiency	5
+oppositional defiant disorder/conduct disorder	5
+osteoarthritis	5
+neuroinflammatory diseases	5
+multiple congenital anomaly syndrome	5
+dendritic branches	5
+gastrointestinal (GI) disturbances	5
+eyes open	5
+spasm	5
+subconvulsive	5
+AIM HI	5
+autism likelihood	5
+neurodevelopmental or psychiatric disorder	5
+Respiratory Sinus Arrhythmia	5
+WSS	5
+language impaired	5
+gastrointestinal distress	5
+personality disorders	5
+hypotonicity	5
+agitation and aggression	5
+visual cognition	5
+cortical hyperexcitability	5
+developmental delays and disorders	5
+empathic deficits	5
+autism spectrum disorder and bipolar disorder	5
+sexual dysfunctions	5
+Maternal infection	5
+detachment	5
+epilepsy and cerebral palsy	5
+sleeping disorder	5
+Hartnup disease	5
+oppositional-defiant disorder	5
+cerebellar injury	5
+ATs	5
+attention-deficit and hyperactivity disorder	5
+idiopathic autistic	5
+X-linked adrenoleukodystrophy	5
+Phelan McDermid syndrome	5
+Tactile Defensiveness	5
+Idiopathic autism	5
+heterotopia	5
+low-trauma fracture	5
+Jacobsen syndrome	5
+contiguous gene disorder	5
+maladaptive behavior	5
+impaired learning	5
+communication dysfunction	5
+Turner Syndrome	5
+Brain Diseases	5
+autism and autism spectrum disorder	5
+TAY-ASD	5
+systemic diseases	5
+Neurotoxicity	5
+Startle	5
+sensory hypersensitivities	5
+FXAND	5
+attention-deficit	5
+psychotic-affective disorders	5
+compulsive-like behaviors	5
+neurobehavioral syndrome	5
+hallucinogens	5
+retards	5
+cognitive change	5
+autism spectrum disorder Rett syndrome	5
+motor coordination disorder	5
+impaired social memory	5
+autistic-like behavioral abnormalities	5
+Autism-linked	5
+Muenke syndrome	5
+genetic neurodevelopmental disorders	5
+compulsive disorders	5
+Neurotoxic	5
+perception deficits	5
+psychomotor skills	5
+hypertensive disorder	5
+HMD	5
+ICD disorders	5
+developmental disease	5
+autoimmune dysfunction	5
+awkwardness	5
+chronic disorders	5
+Attention-Deficit/Hyperactivity Disorder Symptoms	5
+Sd	5
+VSD	5
+SSPD	5
+cortex dysfunction	5
+longitudinal fasciculi	5
+depressive behaviors	5
+attention deficit and hyperactivity	5
+loss	5
+traumatic encephalopathy	5
+abnormal neuronal migration	5
+awareness deficits	4
+autism or pervasive developmental disorders	4
+SEZ	4
+schizophrenia, autism and depression	4
+vision disorders	4
+kyphosis	4
+acute infection	4
+cognitive and motor deficits	4
+inherited disease	4
+intraventricular hemorrhage	4
+nonepileptic myoclonus	4
+proteostasis	4
+anorectal malformations	4
+hypothalamic dysfunction	4
+haplo-insufficiency	4
+steady rise	4
+coagulopathy	4
+migraine headache	4
+Cerebrotendinous xanthomatosis	4
+depression disorders	4
+hernia	4
+behavioral pain	4
+Aneuploidy	4
+Donnell-Luria-Rodan syndrome	4
+pervasive developmental delay	4
+psychotic behavior	4
+gastrointestinal bleed	4
+Say-Meyer syndrome	4
+retinal detachment	4
+KOS	4
+psychosis symptoms	4
+BRE	4
+impaired spatial learning and memory	4
+ACPO	4
+craniofacial dysmorphisms	4
+neuronal toxicity	4
+Beck depression	4
+methemoglobinemia	4
+isolated ventriculomegaly	4
+febrile convulsions	4
+numerous psychiatric disorders	4
+Modeling autism	4
+emotion perception	4
+abnormal psychomotor	4
+Impulsiveness	4
+BFNIE	4
+glucose hypometabolism	4
+UI	4
+cognitive developmental	4
+Scz	4
+autistic-like behaviors	4
+autism-related behavioral abnormalities	4
+Offspring Psychiatric Disorders	4
+VF	4
+multisystemic disorder	4
+sensorimotor behavior	4
+visuomotor behavior	4
+Psychiatric symptoms	4
+amniocentesis	4
+Infantile spasms syndrome	4
+Zn deficiency	4
+somatic abnormalities	4
+cerebral palsies	4
+Syndromic autism spectrum disorders	4
+ulcer	4
+loss of consciousness	4
+visual deficits	4
+word loss	4
+syndromic ASD	4
+fistula	4
+bowel obstruction	4
+neuraxial labor analgesia	4
+HIP	4
+malignant catatonia	4
+SCZP	4
+paraventricular hypothalamus	4
+a cross-syndrome	4
+lung lesions	4
+schizophrenia, depression	4
+autism-schizophrenia	4
+adult autism	4
+autistic toddlers	4
+aMD	4
+joint pain	4
+redness	4
+Doose syndrome	4
+congenital infection	4
+renal dysplasia	4
+Tardive dyskinesia	4
+neonatal amygdala lesions	4
+Maternal polycystic ovary syndrome	4
+iPS	4
+irritability in autistic	4
+brachydactyly type E	4
+genetic anomaly	4
+neuronal inflammation	4
+blepharophimosis	4
+chronic epilepsy	4
+Mood disorder	4
+auditory deficits	4
+complex diseases	4
+Autism Nutrition	4
+NMLFS	4
+hyperactive-impulsive symptoms	4
+perceptual abnormalities	4
+impaired motor skills	4
+rubber hand illusion	4
+autoimmune psychosis	4
+immune disorders	4
+nutritional deficits	4
+IIH	4
+epileptiform discharge	4
+gastrointestinal inflammation	4
+Idiopathic Autism Spectrum Disorder	4
+familial macrocephaly	4
+adolescent psychiatry	4
+cognitive and behavioral dysfunction	4
+drug-resistant seizures	4
+MSD+PD	4
+lower cognitive abilities	4
+Potocki-Lupski Syndrome	4
+disordered language	4
+Excitotoxicity	4
+Friedreich's ataxia	4
+speech retardation	4
+neuromyotonia	4
+neurobehavioral impairment	4
+mentalizing deficits	4
+lipomas	4
+disruptive	4
+Adenylosuccinate lyase (ADSL) deficiency	4
+osteomalacia	4
+systemic disorders	4
+Ataxia	4
+neurological developmental disorder	4
+schizophrenia, autism, depression	4
+error	4
+Anxiety Symptoms	4
+abnormal aggression	4
+SNpr	4
+FT-TD	4
+pervasive developmental disabilities	4
+Learning disabilities	4
+mentally-ill	4
+dysfunctional mitochondria	4
+WDSTS	4
+Mental Illnesses	4
+glycerophospholipid metabolism	4
+number abnormalities	4
+constipated autistic	4
+hyperactive symptoms	4
+Psychotic symptoms	4
+fetal anomalies	4
+WG	4
+WL	4
+irritability and aggression	4
+Paranoia	4
+NOWS	4
+sickness behavior	4
+metabolism disorders	4
+Rett-like syndrome	4
+atrial septal defect	4
+CLP	4
+BEH	4
+X syndrome	4
+oral disease	4
+callosal agenesis	4
+hard palate	4
+autistic behavioral impairments	4
+congenital anomaly	4
+HDG website	4
+ventricular septal defects	4
+brominated flame retardants	4
+Hirschsprung disease	4
+antibody deficiency	4
+mitochondrial impairment	4
+dyspraxia in autism	4
+ADHD Symptoms	4
+Polycystic ovary syndrome	4
+tube defects	4
+hearing disabilities	4
+dentatorubral-pallidoluysian atrophy	4
+mental symptoms	4
+allergic conditions	4
+respiratory allergy	4
+infantile epileptic encephalopathy	4
+skin allergies	4
+Social communication disorder	4
+thrombocytopenic purpura	4
+autism psychopathology	4
+PIGH deficiency	4
+AUDs	4
+movement impairments	4
+heart defect	4
+maternal deficiency	4
+dysmorphia	4
+joint visual attention	4
+Autistic Disorders	4
+rhythm sleep disorders	4
+MLS	4
+forensic psychiatry	4
+learning-memory ability	4
+cerebral damage	4
+CHB	4
+cognitive subsystems	4
+narcissistic disorder	4
+sinusitis	4
+autism and Fragile X syndrome	4
+postnatal psychological distress	4
+audio coaching	4
+Repetitive Motor Behaviors	4
+RAC	4
+cytomegalovirus (CMV) infection	4
+neuroaxonal dystrophy	4
+NGD	4
+impaired developmental	4
+developmental dysfunction	4
+hyperkinetic syndrome	4
+gingival hyperplasia	4
+Atopic Dermatitis	4
+T2DM	4
+inflammatory bowel disorder	4
+Hypothalamic	4
+social deficits in neurodevelopmental disorders	4
+immunologic dysfunction	4
+childhood absence epilepsy	4
+rare disorder	4
+hippocampal dysfunction	4
+orthostasis	4
+cerebral overgrowth	4
+white matter (WM) abnormalities	4
+autism-like symptoms	4
+neurodegenerative and psychiatric disorders	4
+MetS	4
+joint hyperlaxity	4
+autism multiplex	4
+SARS	4
+audiovisual speech	4
+food intolerance	4
+autistic cognitive	4
+macrocephaly in autism	4
+autistic savantism	4
+movement behaviors	4
+ASD-O	4
+genitourinary anomalies	4
+BBD	4
+neonatal hypoglycemia	4
+Toddler Autism	4
+developmental brain abnormalities	4
+articulation disorders	4
+CVDs	4
+rhythm disorders	4
+neuroticism	4
+deficiency and autism	4
+empathic deficit	4
+arthralgia	4
+Autism and attention deficit hyperactivity disorder	4
+ataxias	4
+chronic disorder	4
+neonatal lupus	4
+lyase (ADSL) deficiency	4
+Neuroblastoma	4
+Van der Aa syndrome	4
+microvascular injury	4
+ataxia-telangiectasia	4
+mood	4
+PTEN hamartoma tumor	4
+visual cognitive function	4
+deformity	4
+Skraban-Deardorff syndrome	4
+Lesch-Nyhan variant disease	4
+cytomegalovirus infection	4
+Prader-Willi syndromes	4
+Fragile X syndromes	4
+deficits and repetitive behaviors	4
+dysmotility	4
+neuromuscular disease	4
+Nablus mask-like facial syndrome	4
+anxious behaviors	4
+joint deformities	4
+Genetic disorders	4
+generalized epilepsy with febrile seizures plus	4
+hoarding behaviors	4
+breathing abnormalities	4
+21-hydroxylase deficiency	4
+SZ and ASD	4
+Pervasive Refusal Syndrome	4
+hyper memory	4
+iron deficiency anaemia	4
+thyroiditis	4
+ear infection	4
+preterm babies	4
+Disruptive Behavior	4
+depressive episode	4
+BBS	4
+neurodevelopmental brain disorder	4
+Cognitive abilities	4
+HAD	4
+dystrophic	4
+Repetitive cognition	4
+olfactory abnormalities	4
+motor speech disorder	4
+CINs	4
+GBS	4
+neuroanatomic abnormalities	4
+microcephalic	4
+TBRS	4
+brain growth abnormalities	4
+leukodystrophies	4
+respiratory depression	4
+disordered eating behaviors	4
+low back pain	4
+schizoaffective disorders	4
+hypoxic ischaemia	4
+Modeling psychiatric disorders	4
+auditory-visual conditional discriminations	4
+hyperactivity/impulsivity symptoms	4
+alcohol use disorders	4
+ASD-noID	4
+bipolar I	4
+schizophrenia, autism, bipolar disorder	4
+autism and alexithymia	4
+non-psychiatric	4
+hallucinogenic	4
+brain edema	4
+visual dysfunction	4
+cognitive symptoms of schizophrenia	4
+Timothy syndrome cardiomyocytes	4
+dorsiflexion	4
+sensorimotor abnormalities	4
+pulmonary lymphangioleiomyomatosis	4
+Toxo	4
+priapism	4
+inflammatory pain	4
+limb anomalies	4
+non-autism	4
+Duarte galactosemia	4
+ADHD behaviors	4
+corpus callosum hypoplasia	4
+callosum abnormalities	4
+High Autistic Traits	4
+autism, depression	4
+metabolic dysbiosis	4
+NCD	4
+Feeding disorders	4
+corneal metallic foreign bodies	4
+limb apraxia	4
+Alzheimer and Parkinson disease	4
+catalepsy	4
+disruptive behavioral disorders	4
+ideomotor apraxia	4
+polyuria	4
+neonatal abstinence syndrome	4
+traumatic dental injury	4
+erythema	4
+white matter deficits	4
+panic attacks	4
+PNAS	4
+Autism and Rett syndrome	4
+developmental behavioral disorders	4
+febrile seizures and epilepsy	4
+glucocerebrosidase	4
+idiopathic epilepsies	4
+myoclonic-atonic epilepsy	4
+channel dysfunction	4
+syndromic macrocephaly	4
+benign macrocephaly	4
+Parkinson diseases	4
+fetal brain injury	4
+low depression	4
+Metabolic Disorders	4
+papillary thyroid carcinoma	4
+autism, epilepsy	4
+hereditary deafness	4
+colonic inflammation	4
+J Autism Dev Disord	4
+corneal dystrophy	4
+neuropsychiatric abnormalities	4
+poliomyelitis	4
+Drosophila fragile X	4
+Congenital malformations	4
+cerebral cortical malformations	4
+VH	4
+WPW	4
+brain mitochondrial dysfunction	4
+fecal Ruminococcus	4
+ICD-9-CM	4
+congenital disorders of glycosylation	4
+attention deficit and hyperactivity disorders	4
+aminoaciduria	4
+astrocytic dysfunction	4
+Autoimmune diseases	4
+neoplasms	4
+attention-deficit hyperactive disorder	4
+maternal psychiatric disorder	4
+Neurofibromatosis	4
+GI diseases	4
+Williams Beuren syndrome	4
+bowel disorders	4
+Neuroleptic Malignant Syndrome	4
+GI disorders	4
+Rheumatoid Arthritis	4
+xerostomia	4
+epilepsy disorders	4
+pituitary hormone deficiency	4
+CHDs	4
+skin abnormalities	4
+decreased aggression	4
+autism lymphoblastoid	4
+cerebral dysfunction	4
+lymphoid hyperplasia	4
+Autistic enterocolitis	4
+Hyperserotonemia in autism	4
+Rett disorder	4
+Status Epilepticus	4
+decreased anxiety	4
+language impairment (SLI) and autism spectrum disorders	4
+infantile epilepsy	4
+job coaching	4
+benign tumours	4
+PTEN hamartoma tumour syndrome	4
+debilitating psychiatric disorder	4
+lifelong neurodevelopmental disorders	4
+skin pigmentation	4
+contractures	4
+developmental neurotoxicant	4
+High-Functioning Autism Spectrum	4
+Anterior Cingulate Cortex	4
+Anxiety Related Disorders	4
+quadriparesis	4
+chromosomal abnormality	4
+rigid-compulsive behavior	4
+Hyperuricemia	4
+sleep loss	4
+subependymal giant cell astrocytoma	4
+neurometabolic abnormalities	4
+decreased autism	4
+adjustment disorders	4
+XLID	4
+autism-like behaviors	4
+autosomal-dominant disorder	4
+Autism Spectrum Disorder symptoms	4
+neutropenia	4
+separation anxiety disorder	4
+NVLS	4
+Epilepsy and Autism Spectrum Disorder	4
+Social skills deficits	4
+delay eyeblink conditioning	4
+Alzheimer Disease	4
+LDD	4
+Neuropsychiatric diseases	4
+mental atony	4
+Dental trauma	4
+offspring autism	4
+CCDS1	4
+orthorexia nervosa	4
+L-2-HGA	4
+deficiency syndromes	4
+mentally handicapped	4
+WDS	4
+Mendelian disorder	4
+anaemia	4
+acute gastroenteritis	4
+Anorexia	4
+eyes	4
+neurocognitive dysfunctions	4
+Autism and Communication Disorders	4
+Epilepsy and Autism	4
+GT	4
+Hyperhomocysteinemia	4
+job coaches	4
+AD-N	4
+pulmonary disease	4
+Autism Spectrum Disorder (ASD) symptoms	4
+decreased dendritic	4
+neurogenetic developmental conditions	4
+joint attention abilities	4
+neurofunctional abnormalities	4
+Congenital cytomegalovirus (CMV) infection	4
+social impairments in autism	4
+impairments of autism spectrum disorder	4
+defecation disorders	4
+Woodcock-Johnson	4
+peroxisomal disorders	4
+Disruptive behaviors	4
+facial dysmorphology	4
+paroxysmal movement disorders	4
+ASD behaviors	4
+CDs	4
+haemorrhage	4
+PURA syndrome	4
+depressive mood	4
+nonalcoholic fatty liver disease	4
+autistic people	4
+hypomelanotic skin disorders	4
+Cerebellar dysfunction	4
+Attention-Deficit Hyperactivity	4
+multiple tic disorder	4
+Autoimmune Diseases	4
+epilepsy in autism	4
+cognitive and learning deficits	4
+developmental malformations	4
+hyperserotonemia of autism	4
+abnormal dendritic spine	4
+deficits in learning and memory	4
+maternal developmental disorder	4
+hypoparathyroidism	4
+bacterial overgrowth	4
+DUI	4
+sleep dysrhythmicity	4
+non-syndromic mental retardation	4
+Bipolar disorders	4
+Impulsivity	4
+NSCs/NPCs	4
+somatoform disorders	4
+hepatosplenomegaly	4
+homocystinuria	4
+hypopigmented	4
+attention deficit symptoms	4
+neurofibromatosis type I	4
+PDs	4
+leg pain	4
+hypothalamic hamartoma	4
+immunological deficits	4
+autistic sexual	4
+cardio-facio-cutaneous syndrome	4
+impairment and autism	4
+ADHD-C	4
+emotional deficits, language impairments	4
+hyperactivity and impulsivity	4
+Schizophrenia, Autism	4
+traumatic Stress	4
+AVCD	4
+neurologic impairment	4
+viral meningitis	4
+hyperopia	4
+X-linked genetic disorder	4
+autism-related disorder	4
+developmental brain dysfunction	4
+embryonic neurogenesis	4
+multiple psychiatric disorders	4
+deficits in working memory	4
+type of disorder	4
+callosal abnormalities	4
+autism mental	4
+hereditary spastic paraplegia	4
+epileptiform aphasia	4
+atopic eczema	4
+Behavioral Abnormalities	4
+epilepsy/seizure disorder	4
+CHILDHOOD	4
+AHMPS	4
+drug addiction	4
+impaired social behaviors	4
+congenital cytomegalovirus (CMV) infection	4
+familial dysautonomia	4
+limb malformations	4
+Abnormal sleep	4
+HF-ASD	4
+empathic skills	4
+male autistic	4
+CHAMP1 disorder	4
+social disorder	4
+bacterial	4
+Atopic diseases	4
+sensory hyporesponsiveness	4
+premenstrual syndrome	4
+Type 1 diabetes	4
+EPI	4
+cerebral hamartomas	4
+gastrointestinal anomalies	4
+Extrapyramidal symptoms	4
+autism spectrum disorder (ASD) and Williams syndrome	4
+paraphilia	4
+numerous disorders	4
+fragile X-related disorders	4
+Autism and Other Neurodevelopmental Disorders	4
+impairment of social cognition	4
+maternal polycystic ovary syndrome	4
+psychiatric problems	4
+flushing	4
+cognitive deficiencies	4
+leukoencephalopathy	4
+SS	4
+adenylosuccinase deficiency	4
+deficits of both disorders	4
+neonatal asphyxia	4
+MAs	4
+behavior impairment	4
+White matter abnormalities	4
+musculoskeletal symptoms	4
+endotoxemia	4
+autosomal-recessive disorder	4
+cortical malformations	4
+neuro developmental disorder	4
+SIBS-ASD	4
+complex disorder	4
+attention disorder	4
+absence of epilepsy	4
+Deaths	4
+Syndromic autism	4
+Anxiety disorder	4
+bodily sensations	4
+Developmental neurotoxicity	4
+RLS	4
+muscle pain	4
+pancreatic	4
+traumatic brain injuries	4
+MPS III	4
+inherited metabolic disorder	4
+autoimmune thyroiditis	4
+neurogenetic syndromes	4
+propionic acidemia	4
+pervasive social deficits	4
+endometriosis and bipolar disorder	4
+catatonic stupor	4
+subtle impairments	4
+cognitive problems	4
+cognitive failures	4
+genital abnormalities	4
+Saudi autistic	4
+fragile X and autism	4
+Autism disorder	4
+autism link	4
+psychiatric disturbance	4
+Congenital rubella syndrome	4
+deficits of the disorder	4
+somato-dendritic	4
+long-QT syndrome	4
+coordination deficits	4
+Nocturnal Enuresis	4
+neurological abnormality	4
+posttraumatic stress	4
+fevers	4
+renal malformations	4
+Fragile X and autism	4
+impairment symptoms	4
+pulmonary hypoplasia	4
+behavioral insomnia	4
+cognitive and behavioral abnormalities	4
+ARBs	4
+HRA	4
+postnatal hypoxia	4
+hippocampal abnormalities in autism	4
+diplopia	4
+VTel	4
+AU-S	4
+psychiatric visits	4
+social deficits in autism spectrum disorders	4
+vitamin A deficiency	4
+autistic offspring	4
+auditory startle	4
+CIs	4
+neuronal dysfunctions	4
+brain impairment	4
+HDP	4
+Obsessive-compulsive	4
+hemorrhagic	4
+IFO	4
+white-matter abnormalities	4
+MEG	4
+Autism-Spectrum Disorders	4
+cerebral visual impairment	4
+autism and learning disabilities	4
+epilepsia	4
+cognitive deficiency	4
+cognitive and behavioral disorders	4
+ND-CNVs	4
+schizophrenia and psychosis	4
+non-syndromic ID	4
+matter covariation	4
+congenital CMV	4
+word autism	4
+PNDM	4
+schizophrenia and bipolar disorders	4
+FRAX	4
+neuroimmune disorders	4
+choreoathetosis	4
+Abnormalities	4
+diabetic neuropathy	4
+CHANGE	4
+goodness of fit	4
+white matter	4
+PSS	4
+catatonia in autism spectrum disorders	4
+cognitive-emotional conflict	4
+VWM	4
+migraine headaches	4
+sensory processing disorder	4
+toothache	4
+elbow dislocation	4
+fluency disorder	4
+metabolism disorder	4
+galactosemia	4
+sporadic autism spectrum disorders	4
+ischemia-hypoxemia	4
+cognitive and emotional behaviors	4
+cognitive-behavioral inflexibility	4
+autism impacts	4
+brain anomaly	4
+injuries	4
+language deficits in autism	4
+CHRs	4
+idiosyncratic language	4
+Edinburgh Postnatal Depression	4
+SWS	4
+SCZHR	4
+spastic paraparesis	4
+Mentally Retarded	4
+epileptiform abnormality	4
+Oppositional Defiant Disorder	4
+autistic witnesses	4
+disordered gambling symptoms	4
+Autism-Like Behaviors	4
+tick-borne infections	4
+DMF-T	4
+ASS	4
+excess weight gain	4
+Autism and Other Developmental Disorders	4
+Empathy deficits	4
+Alzheimer s disease	4
+myofasciitis	4
+Virus Infection	4
+visuospatial cognition	4
+carcinogenic	4
+autism and psychiatric	4
+malignant tumors	4
+autistic adult	4
+anisometropia	4
+CHT	4
+maternal infections	4
+HITS-CLIP	4
+apnea-hypopnea	4
+matter injury	4
+psychotic spectrum disorders	4
+alexithymia in autistic	4
+vascular malformations	4
+cross-disease	4
+hypervitaminosis A	4
+hypervitaminosis	4
+autism and microcephaly	4
+dysphoric traits	4
+autism/autism spectrum disorders	4
+hamartoma	4
+psychomotor and language delay	4
+atrial septal defects	4
+rubella infection	4
+DE	4
+congenital cerebellar malformations	4
+neuropathologic	4
+anxious traits	4
+weaknesses	4
+phenotypic abnormalities	4
+loss of appetite	4
+pontocerebellar hypoplasia	4
+Epilepsy in autism	4
+seasonal affective disorder	4
+mega-corpus-callosum syndrome	4
+Hypoplasia	4
+Autism Spectrum Symptoms	4
+alexithymia and autistic traits	4
+MMR-autism	4
+Infertility	4
+chromosome anomalies	4
+empathy dysfunction	4
+neurodegenerative and neurodevelopmental diseases	4
+hypothalamic neuropeptide	4
+Witteveen-Kolk syndrome	4
+eyelid myoclonia	4
+myoclonic-atonic seizures	4
+skin cancer	4
+itch behavior	4
+Kluver-Bucy syndrome	4
+autism neuropathology	4
+rare diseases	4
+Developmental disability	4
+emotional dysfunction	4
+facial dysmorphia	4
+deficits in autism spectrum disorders	4
+brain channelopathies	4
+autism or developmental delay	4
+muscle diseases	4
+nsASD	4
+Brain overgrowth	4
+impairment in autism	4
+autism in the Autism	4
+obsessive-compulsive (OC) symptoms	3
+prostate cancers	3
+eclampsia/eclampsia	3
+developmental failure	3
+Alexithymia and Autistic Traits	3
+psychomotor regression	3
+autism-spectrum-disorder	3
+mental disturbances	3
+KBGS	3
+Vascular anomalies	3
+nerve palsy	3
+fatigue syndrome	3
+Eating disorders	3
+autistic heterosexual	3
+William's syndrome	3
+schizoidia	3
+Congenital Malformations	3
+irritability/agitation symptoms	3
+impaired neuronal migration	3
+plasticity deficits	3
+Autism Learning	3
+central nervous system lesions	3
+multigenic diseases	3
+neuromotor disorders	3
+nonconvulsive status epilepticus	3
+visual hallucinations	3
+hyperoxia	3
+Dendritic spine	3
+Chiari malformation	3
+MJ	3
+coADHD	3
+Facial dysmorphism	3
+cerebral creatine deficiency syndromes	3
+pulmonary fibrosis	3
+mitochondrial defects	3
+Dysphagia	3
+Lamb-Shaffer syndrome	3
+Abnormal cerebellar	3
+pancreatic cancers	3
+Attentional dysfunction	3
+proteotoxic stress	3
+AP	3
+white matter disorder	3
+autism, attention deficit/hyperactivity disorder	3
+rubella viruses	3
+autism postulates	3
+brain hyperserotonemia	3
+visual scanpaths	3
+chromatinopathies	3
+schizophrenic spectrum disorder	3
+memory defects	3
+common disorder	3
+sporadic disorder	3
+myotonia	3
+central nervous system dysfunction	3
+life-long disorder	3
+Proteus-like syndrome	3
+decreased pain	3
+Epileptic Encephalopathy	3
+KSD	3
+ketosis	3
+mesial temporal sclerosis	3
+lysosomal dysfunction	3
+Type 2 diabetes	3
+chest pain	3
+dendritic spine loss	3
+brain dysmaturation	3
+Muscle hypotonia	3
+visual attention patterns	3
+Otitis	3
+hypobetalipoproteinemia	3
+Working memory deficits	3
+impaired lipid metabolism	3
+Van der Aa Syndrome	3
+chromosome aneuploidy	3
+Alzheimer Dementia	3
+primary dystonia	3
+attention impairments in autism	3
+myalgia	3
+Sensorimotor impairments	3
+episodic depression	3
+cognitive and motor impairments	3
+degenerative brain diseases	3
+joint dislocations	3
+ventricular ependymal	3
+autism or autism	3
+sensorimotor symptoms	3
+lysosomal storage diseases	3
+Criticism	3
+subependymal lesions	3
+adaptive behavior deficits	3
+MPS IH	3
+brain developmental abnormalities	3
+autistic savant	3
+multi-factorial disorder	3
+myositis	3
+microstructural abnormalities	3
+MM-CHAT	3
+tauopathies	3
+emotional detachment	3
+cortical atrophy	3
+chronic depression	3
+drug dependence	3
+Attention-Deficit-Hyperactivity-Disorder	3
+respiratory complications	3
+Rubinstein-Taybi Syndrome	3
+oromotor dysfunction	3
+Xia-Gibbs syndrome	3
+abnormal behavior	3
+autism and autistic spectrum disorders	3
+QTLs	3
+hyperemesis gravidarum	3
+Microstructural abnormalities	3
+NDID	3
+frontal lobe epilepsy	3
+hypometria and dysmetria	3
+infantile spasms syndrome	3
+deficiency or insufficiency	3
+disordered breathing	3
+hypospadia	3
+Autism Speaks-Autism	3
+ovarian failure	3
+non-psychiatric disorders	3
+cognitive developmental delay	3
+periventricular nodular heterotopia	3
+schizophrenia and attention deficit hyperactivity disorder	3
+adrenoleukodystrophy	3
+oculomotor deficits	3
+chronic gastrointestinal problems	3
+speech-language impairment	3
+Developmental Dyslexia	3
+Developmental Language Disorders	3
+distress	3
+TMD pain	3
+chromosome disorder	3
+functional GI disorders	3
+Neurodevelopmental diseases	3
+HT	3
+isolated cerebellar hypoplasia	3
+human disorders	3
+startle disease	3
+autism and fragile x syndrome	3
+pancytopenia	3
+Hyperthermia	3
+autism and attention deficit/hyperactivity disorder	3
+Boston Autism	3
+participatory autism	3
+cognitive brain disorders	3
+sensory anomalies	3
+autism mental status	3
+autism field	3
+eyedness	3
+Refractory epilepsy	3
+Neurodevelopmental disabilities	3
+hyperkinetic movement disorders	3
+hallmark of autism spectrum disorders	3
+idiopathic generalized epilepsies	3
+language disabilities	3
+chorioretinal atrophy	3
+PHD	3
+genotoxic stress	3
+impaired PWM	3
+MRS	3
+dystonia-atonia	3
+Developmental Delays and Disorders	3
+inherited mental retardation	3
+ARCH	3
+absenteeism	3
+autism parenting stress	3
+neuropathology of the disorder	3
+Hyperkinetic	3
+BFIE	3
+psyche	3
+autism spectrum disorder (ASD) deficits	3
+behaviorally defined developmental disorder	3
+cognitive deficits in autism	3
+NTD	3
+autism or autistic	3
+neurogenetic developmental disorder	3
+sleep apnoea	3
+auditory neuropathy	3
+pyrexia	3
+TMDs	3
+odontoid synchondrosis fracture	3
+Kennedy	3
+LPSp	3
+inappropriate behaviors	3
+psychopathy and autism spectrum disorders	3
+nervous system dysfunction	3
+discrimination deficits	3
+hypoxemia	3
+Ogilvie syndrome	3
+SL	3
+spinocerebellar ataxia	3
+Autism, epilepsy	3
+49 autistic	3
+gastrointestinal (GI) distress	3
+quadriplegia	3
+immunological dysfunction	3
+attention deficit hyperactivity syndrome	3
+Myoclonic seizures	3
+axis dysfunction	3
+neurodevelopmental genetic diseases	3
+motor empathy	3
+congestive heart failure	3
+isolated lissencephaly	3
+heart malformations	3
+hypokinesia	3
+arched palate	3
+PDD Behavior	3
+depression and bipolar disorder	3
+cognitive and social impairments	3
+language delay or impairment	3
+Anterior	3
+cognitive traits	3
+syndromic developmental delay	3
+endocrine diseases	3
+schizophrenia or autism spectrum disorder	3
+Neurobehavioral disorders	3
+Hypovitaminosis	3
+sensory hyper-responsiveness	3
+Fragile-X Syndrome	3
+azoospermia	3
+autism and autism	3
+congenital disorder of glycosylation	3
+oppositional disorders	3
+gastroenteritis	3
+competence impairments	3
+dysmorphic signs	3
+multisystem developmental disorder	3
+Eosinophilic esophagitis	3
+Eosinophilic Esophagitis	3
+offspring neurodevelopmental disorders	3
+salmonellosis	3
+Autism and Autism	3
+melatonin deficiency	3
+giant basal cell carcinoma	3
+autism-like deficits	3
+deficiency of vitamin C	3
+hypertonic	3
+attention deficit or hyperactivity disorder	3
+Mental Disorders-IV	3
+Visual impairment	3
+Hypothermia	3
+cognitive anomalies	3
+psychiatric difficulties	3
+basal ganglia	3
+cerebellar overgrowth	3
+Cerebellar Cognitive Affective Syndrome	3
+sleep-wake disorder	3
+arachnodactyly	3
+structural disorder	3
+Cold Spring Harbor	3
+impaired vision	3
+language symptoms	3
+focal cortical anomalies	3
+conduct disorder symptoms	3
+developmental status epilepticus	3
+HE	3
+Kikuchi-Fujimoto disease	3
+neuropsychiatric impairment	3
+familial autism spectrum disorder	3
+phobia symptoms	3
+Niemann-Pick disease type C	3
+pervasive abnormalities	3
+social impairment, repetitive behavior	3
+SCZ, BD	3
+dendritic spine abnormalities	3
+JNDs	3
+Brain Tumor	3
+bipolar symptoms	3
+deficiency syndrome	3
+fracture chronic diseases	3
+Gastrointestinal Dysfunction	3
+dendritic abnormalities	3
+social anhedonia	3
+AHP	3
+alexithymia and empathy	3
+Conduct disorders	3
+neuronal migration deficits	3
+SEARCH plus ASD	3
+attentional impulsivity	3
+cerebrovascular diseases	3
+developmental brain malformations	3
+asthma and allergy	3
+Disabilities-Autism	3
+autistic behavioral abnormalities	3
+atopic asthma	3
+spinal cord injuries	3
+autistic visual perception	3
+neurobehavioral anomalies	3
+episodic disorders	3
+hyperserotoninemia in autistic	3
+aldehyde toxicity	3
+Aicardi syndrome	3
+hypoplasia and dysmorphology	3
+lymphomas	3
+Willingness	3
+autistic painter	3
+alcohol spectrum disorder	3
+Depressive Disorders	3
+neuronal hyperexcitation	3
+inferior fasciculus	3
+neurometabolic disease	3
+Autism-Like Symptoms	3
+new neurodevelopmental syndrome	3
+CAA	3
+genital hypoplasia	3
+Vaccine Injury Compensation	3
+PC	3
+audiovisual perception	3
+social-emotional deficits	3
+eyes versus mouth	3
+Sensorimotor abnormalities	3
+Deafness	3
+Langer-Giedion syndrome	3
+Pitt Hopkins Syndrome	3
+CND's	3
+lip movements	3
+Demyelination	3
+Narcolepsy	3
+breast tumor	3
+mental distress	3
+schema-congruency	3
+childhood-onset disorders	3
+subarachnoid hemorrhage	3
+emotional openness	3
+Lennox-Gastaut Syndrome	3
+Axis I disorders	3
+Abnormal dendritic	3
+autism-related impairment	3
+hyperemesis	3
+blood-brain	3
+fragile X syndromes	3
+DPD	3
+Autoimmune Neuropsychiatric Disorders	3
+multi-organ disease	3
+tonic clonic seizures	3
+S/SA	3
+Nutritional deficiencies	3
+autoimmune neuropsychiatric disorder	3
+autism spectral disorders	3
+Cognitive Deficits	3
+mucosal immunopathology	3
+idiopathic intracranial hypertension	3
+psychosomatic disorder	3
+synapse dysfunction	3
+substance disorders	3
+postnatal depression	3
+bodyweight gain	3
+tetraplegia	3
+CFD syndromes	3
+Catatonia in Autism Spectrum Disorder	3
+craniofacial and skeletal anomalies	3
+Motor impairment	3
+LMHD	3
+nervous system functioning disorders	3
+dosage abnormalities	3
+Autism or autism spectrum disorder	3
+hyperserotoninemia	3
+deficient social skills	3
+dysfunctional communication	3
+psychological disorder	3
+infarct	3
+auditory behavior	3
+mood disturbances	3
+congenital anomaly syndrome	3
+Inflammatory Bowel Disease	3
+long bone fractures	3
+Occupational Stress	3
+cancer syndrome	3
+astrocytomas	3
+executive dysfunction	3
+Sensory deficits	3
+puberty	3
+learning disabilities or autism	3
+NMJs	3
+Paroxysmal kinesigenic dyskinesia	3
+benign familial infantile seizures	3
+Attention deficit disorder	3
+Motor Abnormalities	3
+serotonin syndrome	3
+autosomal recessive developmental disorder	3
+Hypothyroidism	3
+renal and pulmonary disease	3
+Autism and Neurodevelopmental Disorders	3
+learning disability and autism	3
+RIFG	3
+Autism and Autism Spectrum Disorder	3
+developmental spectrum disorder	3
+fragile X Syndrome	3
+visuomotor skills	3
+cognitive alexithymia	3
+cerebellar malformation	3
+absence epilepsy	3
+abnormal visual attention	3
+callosal white matter	3
+autism in tuberous sclerosis	3
+dysfunctional brain	3
+autism and gastrointestinal symptoms	3
+autoimmune thyroid disease	3
+communication deficits in autism spectrum disorder	3
+pressured	3
+autistic defenses	3
+aggression in autism	3
+syndromic and non-syndromic autism	3
+hamartoma tumor syndrome	3
+multisensory integration deficits	3
+adolescent eating disorder	3
+Brugada syndrome	3
+hyporesponsivity	3
+Tuberculosis	3
+High Functioning Autistic Spectrum Disorders	3
+Brain Injury	3
+HED	3
+Temporal lobe epilepsy	3
+Social communication impairments	3
+male sex chromosome disorder	3
+multifactorial neurodevelopmental disorders	3
+multi-systemic disorder	3
+psychopathies	3
+Velocardiofacial syndrome	3
+attention deficiency/hyperactive disorder	3
+type I diabetes	3
+degenerative disorders	3
+competence deficits	3
+cognition impairment	3
+obsessive compulsive-related disorders	3
+ovarian hyperstimulation	3
+ovarian aging	3
+flexibility deficits	3
+autism spectrum disorder-cognitive developmental delay	3
+Autism-spectrum disorders	3
+congenital anomalies of the kidney	3
+hallmark of fragile X syndrome	3
+Amblyopia	3
+neuronal hyperactivation	3
+neonatal opioid withdrawal syndrome	3
+urolithiasis	3
+hypovitaminosis A	3
+BFRs	3
+OBS	3
+gastrointestinal dysmotility	3
+MNGIE	3
+Language Disorders	3
+isolated epilepsy	3
+psychiatric syndrome	3
+Angelman's syndrome	3
+autistic traits, empathy	3
+Philip Teitelbaum	3
+Autism Language	3
+congenital nystagmus	3
+low empathy	3
+Autism-Related Behaviors	3
+inferior frontal occipital fasciculus	3
+Regressive autism	3
+abnormal sensorimotor	3
+gastrointestinal injury	3
+autism and psychiatric disorders	3
+rett syndrome	3
+autism spectrum syndrome	3
+autistic speech	3
+neurological disabilities	3
+autistic amygdala	3
+neurodevelopmental behavioral disorders	3
+Abnormal sensory	3
+hypertrophic cardiomyopathy	3
+microencephaly	3
+Teacher Autism	3
+synucleinopathies	3
+PDD/autism	3
+neural systems disorder	3
+autism syndromes	3
+HDPs	3
+nociceptive pain	3
+Lesch-Nyhan Syndrome	3
+Long QT syndrome	3
+neuromotor deficits	3
+autonomic disorders	3
+mitochondrial deficits	3
+deficits of autism spectrum disorder	3
+Cortical dysplasia	3
+non-syndromic X-linked intellectual disability	3
+impairment and distress	3
+Vomiting	3
+neurological brain disorders	3
+mitochondrial damage	3
+Osteoporosis	3
+Neurodevelopmental impairment	3
+myoclonic-atonic	3
+hyper-locomotion	3
+neurodevelopmental abnormality	3
+disability/developmental delay	3
+joint attention behavior	3
+autism-associated impairments	3
+parkinsonian	3
+obsessions and compulsions	3
+memory deficits in autism	3
+emotional distress	3
+epilepsy/seizures	3
+NeuroD	3
+defensiveness	3
+Congenital heart disease	3
+gangliosidosis	3
+Wilkinson	3
+emotional disturbances	3
+visual cognitive	3
+Behavioral Disorders	3
+HLRCC	3
+vicarious social pain	3
+deep learning algorithms	3
+deficiency anemia	3
+idiopathic schizophrenia	3
+hypersomnolence	3
+autism communication symptoms	3
+learning defects	3
+operant vomiting	3
+mirror neuron system dysfunction	3
+Dental injuries	3
+autosomal dominant genetic disorder	3
+minicolumnopathy in autism	3
+mania symptoms	3
+MSS	3
+attention impairments	3
+uncooperative behaviors	3
+Corpus callosum abnormalities	3
+status epilepticus of sleep	3
+psychotic diseases	3
+glycosylphosphatidylinositol-anchored	3
+Respiratory Infections	3
+inferior longitudinal fasciculi	3
+offspring autism spectrum disorders	3
+coaching session	3
+sensorimotor difficulties	3
+hand rotation	3
+language competence	3
+social impairment in autism spectrum disorders	3
+neurogenesis defects	3
+social cognition	3
+HDB	3
+spherocytosis	3
+chronic rhinosinusitis	3
+hyperserotonemia in autism	3
+Huntington's	3
+Abnormal neuronal	3
+compulsive hoarding	3
+rheumatologic diseases	3
+QTc interval prolongation	3
+Autism spectrum disorder symptoms	3
+developmental disorder of the central nervous system	3
+cardiac-only Timothy syndrome	3
+nonketotic hyperglycinemia	3
+akinesia	3
+sensory dysfunctions	3
+SBD	3
+excessive somnolence	3
+neurodevelopment disease	3
+Velo-cardio-facial syndrome	3
+haploinsufficiency impairs	3
+maternal hypothyroxinemia	3
+cerebral malaria	3
+aneurysm	3
+sagittal synostosis	3
+ovaries	3
+AFS	3
+behavioral	3
+malignant disease	3
+cerebellar vermis hypoplasia	3
+gastrointestinal (GI) disease	3
+MTLE	3
+multiple psychiatric	3
+neurodevelopmental psychiatric	3
+psychological deficits	3
+cardiac startle	3
+autism and attention deficit disorder	3
+encephalic	3
+Fragile X-associated disorders	3
+psychosis and bipolar disorder	3
+Autistic psychopathy	3
+Encephalitis	3
+somatosensory abnormalities	3
+Cowden disease	3
+somatosensory dysfunction	3
+developmental psychopathologies	3
+repetitive behavior deficits	3
+repetitive behaviors in ASD	3
+repetitive behavioral abnormalities	3
+vasovagal syncope	3
+neurobehavioural abnormalities	3
+periventricular leucomalacia	3
+congenital muscular dystrophy	3
+motor learning deficits	3
+amygdala hyperactivity	3
+Headache	3
+PIDs	3
+deficits of autism spectrum disorders	3
+ischemic colitis	3
+white matter reduction	3
+hyperreflexia	3
+aberrancies	3
+elevated seizure	3
+cblC disease	3
+organic disorders	3
+autoimmune autism	3
+behavioral deficits of autism	3
+language impairment in autism spectrum disorder	3
+cognitive loss	3
+auditory defensiveness	3
+Mental rotation	3
+skeletal dysplasia	3
+Prader-Willi or Angelman syndromes	3
+cognitive impairment, autism spectrum disorders	3
+neuronal	3
+obesogenic behaviors	3
+nonepileptic psychiatric	3
+auditory-somatosensory	3
+visual language	3
+gestational diabetes	3
+HAMD	3
+genetic multisystem disorder	3
+lysosomal storage disorder	3
+primary carnitine deficiency	3
+injurious behaviors	3
+Viral Infections	3
+frontal lobe damage	3
+psychiatric symptoms and disorders	3
+Dimensional Obsessive-Compulsive	3
+sensory disabilities	3
+fetal aneuploidies	3
+CHD8 deficiency	3
+ALPS	3
+ASD-HF	3
+radiation enteritis	3
+spastic cerebral palsy	3
+Klebsiella	3
+developmental delay disorders	3
+Adolescent Psychiatric Disorders	3
+Inherited Disease	3
+axonal fasciculation	3
+growth deficits	3
+cognitive function and dysfunction	3
+medulloblastoma	3
+creative writing	3
+autisto-psychotic	3
+developmental disabilities and neurologic disorders	3
+irritability of autism	3
+impaired spatial working memory	3
+nondysmorphic autism	3
+Bradycardia	3
+Abdominal Pain	3
+Prader Willi Syndrome	3
+toxicosis	3
+motivational deficits	3
+cerebral glucose metabolism	3
+behavior dysfunction	3
+autistic withdrawal	3
+personality disorder	3
+achalasia	3
+hemorrhagic stroke	3
+esophageal achalasia	3
+Fragile X Mental Retardation	3
+iodine deficiency	3
+carcinoid tumors	3
+intracranial calcification	3
+AADs	3
+developmental delay/autism spectrum disorder	3
+anorexia nervosa and autism spectrum disorder	3
+hyperuricosuric autistic	3
+traumatic stress disorders	3
+tracheal injury	3
+ear abnormalities	3
+compulsive and impulsive disorders	3
+obstructive sleep apnea syndrome	3
+trauma-related disorders	3
+Simpson-Golabi-Behmel syndrome	3
+Cognitive decline	3
+Social cognitive deficits	3
+mucopolysaccharidosis type III	3
+cerebellar dysplasia	3
+Obsessive-compulsive symptoms	3
+cardioverter defibrillator	3
+head rotation	3
+metabolic deficits	3
+limb defects	3
+encephalization	3
+heart malformation	3
+hypermobility spectrum disorders	3
+autistic epileptiform	3
+organic abnormalities	3
+plagiocephaly	3
+Aggressiveness	3
+Bosch-Boonstra-Schaaf Optic Atrophy Syndrome	3
+sustained attention deficits	3
+autism and autistic	3
+cognitive aspects of empathy	3
+Inborn Errors of Metabolism	3
+schizophrenic neurodevelopmental disorders	3
+Crooke	3
+amygdala lesion	3
+autism spectrum disorder OR autism	3
+Christianson syndrome	3
+Menke-Hennekam syndrome	3
+schizophrenia negative symptoms	3
+schizophrenia plus epilepsy	3
+Rethinking autism	3
+interneuron dysfunction	3
+migration disorders	3
+impairment of autism	3
+fragile X, tuberous sclerosis	3
+visuomotor deficits	3
+Alagille syndrome	3
+metabolic disturbances	3
+Sudden Infant Death Syndrome	3
+Autism and attention-deficit/hyperactivity disorder	3
+panhypopituitarism	3
+pulmonary lymphangiomyomatosis	3
+myeloproliferative neoplasms	3
+syndromic ASDs	3
+Speech delay	3
+decreased acoustic startle	3
+hypoxic brain damage	3
+auditory processing abnormalities	3
+hereditary neurological diseases	3
+neuro-developmental	3
+Megalencephaly	3
+bi-allelic deficiency	3
+Hypomelanosis	3
+insulinopathies	3
+autism websites	3
+lifelong impairments	3
+matter volume abnormalities	3
+decreased cognitive abilities	3
+social communication deficits and repetitive behaviors	3
+Neurodegenerative disorders	3
+myopathic	3
+Duchenne and Becker muscular dystrophy	3
+impaired episodic memory	3
+AK	3
+neurocognitive disease	3
+low cognitive empathy	3
+Autism Knowledge Engine	3
+covid-19	3
+Lewy body dementia	3
+liver cancer	3
+coordination disorder	3
+Chronic Tic Disorders	3
+oral mucositis	3
+QT interval prolongation	3
+congenital hypotonia	3
+lymphadenopathy	3
+neurodevelopmental illness	3
+adolescent disorders	3
+MGS	3
+duchenne muscular dystrophy	3
+disruptive behavioral symptoms	3
+Anxiety Disorder	3
+oddness	3
+Neurodevelopmental disease	3
+ANXIETY	3
+respiratory illness	3
+psychosocial impairments	3
+CMV	3
+Attention deficits	3
+Adenylosuccinase deficiency	3
+middle ear infections	3
+cardiopulmonary arrest	3
+growth deficiency	3
+hyperphenylalaninemia	3
+atrial fibrillation	3
+autism, fragile X syndrome	3
+retinal dystrophy	3
+familial autoimmunity	3
+Schizophrenia and Autism Spectrum Disorder	3
+compulsive Valsalva	3
+inherited disorder	3
+lifelong developmental disorder	3
+allergic disorder	3
+enzyme deficiency	3
+autistic core symptoms	3
+subtle dysmorphic	3
+Alzheimer-type dementia	3
+psychiatric abnormalities	3
+irritation	3
+neuronal disease	3
+CFA	3
+mental abnormalities	3
+benign familial infantile epilepsy	3
+defibrillator implantation	3
+musculoskeletal diseases	3
+psychosis spectrum disorders	3
+Gray matter abnormalities	3
+hyperammonemia	3
+atrioventricular block	3
+colon volvulus	3
+syndromic obesity	3
+psychological trauma	3
+Social phobia	3
+cognitive impairment and autism spectrum disorder	3
+Cognitive empathy	3
+Facial emotion perception	3
+NFLE	3
+DP	3
+Cognitive impairments	3
+autistic functioning	3
+locomotor sensitization	3
+neuronal synchronicity	3
+colonic motility	3
+bronchial asthma	3
+behavioral abnormalities in autism	3
+aspiration syndrome	3
+genetic generalized epilepsy	3
+recessive neuroectodermal syndrome	3
+congenital cataracts	3
+asynchronies	3
+autism and deafness	3
+Obsessive-Compulsive Symptoms	3
+Autism-Psychosis	3
+incongruous words	3
+foot abnormalities	3
+lathosterolosis	3
+cardiomegaly	3
+angiofibromas	3
+pervasive deficits	3
+Wernicke's encephalopathy	3
+inguinal hernia	3
+VB	3
+renal tumors	3
+Fragile X-associated Neuropsychiatric Disorders	3
+manic-depressive psychosis	3
+hematoma	3
+autism-related behavioral symptoms	3
+Neurodegenerative Symptoms	3
+genetic deficits	3
+Alzheimer, Parkinson	3
+proteinuria	3
+H-W	3
+respiratory tract infections	3
+sensorimotor gating deficits	3
+ASI	3
+hereditary cancer	3
+polySia	3
+injury mortality	3
+Attention-deficit/Hyperactivity Disorder	3
+genital anomalies	3
+osteopetrosis	3
+dihydropyrimidine dehydrogenase deficiency	3
+Legionnaires' disease	3
+autism spectrum disorder traits	3
+bulbous nasal tip	3
+episodic memory in autism spectrum disorder	3
+impaired facial emotion	3
+isiZulu	3
+High-functioning Autism	3
+schizophrenia and schizoaffective disorder	3
+bowel movements	3
+strokes	3
+Triple X syndrome	3
+cognitive and behavioral disabilities	3
+bone diseases	3
+verbal working memory deficits	3
+rheumatic fever	3
+disability disorder	3
+adolescent idiopathic scoliosis	3
+Myoclonus	3
+Hypothalamic-Pituitary-Adrenocortical	3
+febrile illness	3
+autistic-like disorder	3
+impaired dendritic	3
+neurogenetic disease	3
+Sleep disturbances	3
+psychiatric impairment	3
+language impairment and autism spectrum disorder	3
+autism and mental retardation	3
+autism-spectrum-disorders	3
+genetic neuropsychiatric disorders	3
+impairment of language	3
+macrocephaly/autism	3
+Diphtheria-Tetanus-acellular-Pertussis	3
+psychosocial deprivation	3
+Juvenile myoclonic epilepsy	3
+MG	3
+low-anxiety	3
+empathy difficulties	3
+alexithymia hypothesis	3
+deafblindness and autism	3
+antibody encephalitis	3
+GBM	3
+thyroid disorders	3
+psychiatric and neurodevelopmental disorders	3
+sleep hyperhidrosis	3
+Childhood Autism Spectrum Disorders	3
+Friedreich ataxia	3
+low cognitive abilities	3
+neurofibroma	3
+autism exhibit deficits	3
+sensorimotor skills	3
+sickness absence	3
+teaching emotion	3
+Autism CRC	3
+sleep deficiency	3
+Hyperbilirubinemia	3
+SLO syndrome	3
+NP-MOT	3
+severe neurodevelopmental disorder	3
+hypothalamus-pituitary-adrenal axis	3
+Bardet-Biedl syndrome	3
+parental depressive	3
+idiopathic infantile nystagmus	3
+(DVD) deficiency	3
+ADNFLE	3
+Immunoexcitotoxicity	3
+autosomal dominant nocturnal frontal lobe epilepsy	3
+Delirium	3
+Infectious Diseases	3
+auditory-visual discrimination	3
+repetitive symptoms	3
+learning-behavior disorders	3
+cardiac rhabdomyoma	3
+schizotypal disorder	3
+leiomyoma	3
+dyscoordination	3
+autism prodromal symptoms	3
+Autism brain	3
+protein aggregation	3
+PNDs	3
+NGGCT	3
+FOXG1 disorder	3
+sleep impairment	3
+cardiometabolic disease-free	3
+pulmonary stenosis	3
+stomatitis	3
+epilepsy and depression	3
+porphyrinuria	3
+Attention deficit and hyperactivity disorder	3
+dysgraphia	3
+MRI abnormalities	3
+attention deficit hyperactivity (ADHD) disorders	3
+PMcD	3
+autism plus language impairment	3
+foot anomalies	3
+maladaptive schemata	3
+attention deficit/hyperactive disorder	3
+autism-like disorders	3
+germinomas	3
+cerebella of autistic	3
+life-long developmental disorder	3
+myelination defects	3
+motor speech disorders	3
+learning abnormalities	3
+disruptive symptoms	3
+ileocolitis	3
+striatal dysfunction	3
+Communication Deficits	3
+adrenal insufficiency	3
+ring chromosome 14 syndrome	3
+H-RRB	3
+irritable mood	3
+neuroDDs	3
+PI	3
+hypoxic-ischemic	3
+mood dysregulation	3
+Broader Autism	3
+multifocal epilepsy	3
+language competencies	3
+isolated cleft lip	3
+chemorepulsive	3
+Neurological Disease	3
+dendritic spine enlargement	3
+childhood epilepsy	3
+infarcts	3
+rheumatism	3
+Schizophrenia, bipolar disorder	3
+tumour necrosis	3
+auditory sustained attention	3
+neuronal oscillations	3
+hyposmia	3
+Behavioral Symptoms	3
+MTORopathies	3
+childhood conduct disorder	3
+Malan syndrome	3
+loss of cognitive	3
+sporadic autism	3
+ribosomopathy	3
+myoclonic atonic seizures	3
+developmental communication disorder	3
+diploma	3
+parental autism	3
+infantile spasms and autism	3
+tooth wear	3
+narcissistic disorders	3
+pneumococcal	3
+Autism-Spectrum Disorder	3
+developmental delay/disorder	3
+Abnormalities in dendritic spines	3
+autistic pathologies	3
+volumetric abnormalities	3
+injurious behavior	3
+withdrawal dyskinesias	3
+juvenile rheumatoid arthritis	3
+developmental delays or disorders	3
+hyperuricosuric autism	3
+retinoblastoma	3
+Schizophrenia spectrum disorders	3
+neonatal diseases	3
+neuronal deficits	3
+allergic rhinoconjunctivitis	3
+Nonsyndromic Autism Spectrum Disorder	3
+PWA	3
+cerebellar agenesis	3
+dysexecutive syndrome	3
+cognitive slowing	3
+leukocytosis	3
+Mental Rotation	3
+DDD	3
+Thyroid dysfunction	3
+haploidy	3
+Parkinson and Movement Disorder	3
+borreliosis	3
+PML	3
+anterior auditory field	3
+rigid behaviors	3
+neurodevelopmental disorder autism	3
+LND	3
+Working Memory	3
+melanosis coli	3
+corneal opacities	3
+neurodegenerative syndromes	3
+functional deficiency	3
+microduplication syndrome	3
+embryonic telencephalon	3
+gingival disease	3
+developmental neurotoxicants	3
+Hashimoto's thyroiditis	3
+adenomas	3
+protein dysfunction	3
+neuronal hyperactivity	3
+skin rash	3
+eye movement abnormalities	3
+Neuroinflammation	3
+hebephrenia	3
+Self-Injury	3
+Autism in tuberous sclerosis	3
+cognitive dysontogenesis	3
+shock proteins	3
+cardiac hypertrophy	3
+neurological deaths	3
+IPS	3
+FCB	3
+inertia	3
+Psychotic Symptoms	3
+skin allergy	3
+Depression symptoms	3
+eye diseases	3
+eye disease	3
+thalamic abnormalities	3
+schizophrenia polygenic	3
+GLHS	3
+benign hamartomas	3
+Gastrointestinal (GI) disorders	3
+hypoxic ischaemic encephalopathy	3
+auditory impairment	3
+ophthalmologic anomalies	3
+hypertriglyceridemia	3
+chronic lung disease	3
+Dyspraxia	3
+myoclonic jerks	3
+nephrotic syndrome	3
+birth weight	3
+recall	3
+tip-toe behavior	3
+Oppositional defiant disorder	3
+memory impairment in autism	3
+hyperactivities	3
+systemic sclerosis	3
+pupillary block	3
+Myopia	3
+hyperexcitability	3
+cerebellar abnormality	3
+teratoma	3
+memory abilities	3
+Coronavirus Disease 2019	3
+impairment of neuronal	3
+Impairment and Autism Spectrum Disorder	3
+autism and neurodegenerative disorders	3
+neurodevelopmental spectrum disorder	3
+conotruncal heart defects	3
+neuroendocrine	3
+autism label	3
+lipid abnormalities	3
+Coeliac disease	3
+autism, attention-deficit hyperactivity disorder	3
+tactile discrimination	3
+central nervous system abnormalities	3
+Ayme-Gripp syndrome	3
+functional impairments	3
+autosomal recessive microphthalmia	3
+neuropsychiatric developmental disorders	3
+Ataxia syndrome	3
+aggression symptoms	3
+retinal diseases	3
+vertebral malformations	3
+familial schizophrenia	3
+psychosocial distress	3
+frontal IEDs	3
+neck rotation	3
+J Autism Dev Disorders	3
+speech-language disorders	3
+Structural brain abnormalities	3
+orthorexia symptoms	3
+functional gastrointestinal disorders	3
+refractory seizures	3
+epilepsy and epilepsy	3
+AIE	3
+aphasias	3
+social deficits in autism spectrum disorder	3
+neurologic	3
+developmental disorders of language	3
+developmental hypothyroidism	3
+tic impairment	3
+anxiety-and autism	3
+functional deficits	3
+Emesis	3
+lymphocytic colitis	3
+inborn error	3
+High functioning autism	3
+SIGNIFICANCE	3
+intermittent hypoglycemia	3
+low vision	3
+infantile seizures	3
+Adnp haploinsufficient	3
+hypersexual behavior	3
+autism-like syndrome	3
+bowel habits	3
+RMB	3
+communication defects	3
+neurodevelopmental autism spectrum disorder	3
+Cowden's syndrome	3
+Social anhedonia	3
+Headache Disorders	3
+Memory deficits	3
+Anoxic seizures	3
+Neurodevelopmental and Psychiatric Disorders	3
+St8sia2 deficiency	3
+belongingness	3
+abnormal neuronal	3
+Dystonia	3
+juvenile bipolar disorder	3
+glioblastoma multiforme	3
+PID	3
+disruptive neurogenesis	3
+cardiovascular complications	3
+aggressivity	3
+neuron dysfunction	3
+Erysipelotrichaceae	3
+address autism	3
+psychiatric impairments	3
+Cerebellar atrophy	3
+dermatillomania	3
+epilepsy and cognitive deficits	3
+bacterial meningitis	3
+impaired energy metabolism	3
+DEEs	3
+collagenomas	3
+Autism and Gastrointestinal Symptoms	3
+Disabilities	3
+cognitive and language abilities	3
+Developmental dyslexia	3
+fragile-X mental retardation	3
+autistic communication	3
+psychiatric pathologies	3
+Auditory hypersensitivity	3
+limb swelling	3
+genetic deficiency	3
+WM abnormalities	3
+neoplastic disorders	3
+bulbar dysfunction	3
+Autism Dysmorphology	3
+Schizophrenia, Bipolar Disorder	3
+autism, schizophrenia	3
+coronavirus disease	3
+milk allergic	3
+pitch discrimination	3
+adult language learning	3
+ventricular dilatation	3
+Bardet-Biedl Syndrome	3
+NSHL	3
+math skills	3
+anxious youth	3
+neuromotor impairment	3
+social deficiency	3
+autism cortex	3
+heterodisomy	3
+Movement impairments	3
+hearing autistic	3
+HR-SIBS	3
+mental development retardation	3
+genetic variations	3
+lymphoma	3
+Obsessive compulsive disorder	3
+photophobia	3
+epileptiform electroencephalographic abnormalities	3
+behavioral competencies	3
+neuropathological hallmark	3
+2 diabetes	3
+dementias	3
+metabolic defects	3
+cold	3
+spastic diplegia	3
+autism teams	3
+perception impairment	3
+communication impairments in autism	3
+motor impairments in autism	3
+ulcers	3
+multifocal motor neuropathy	3
+hepatocellular carcinoma	3
+focal abnormalities	3
+cerebral anomalies	3
+Stigma of Mental Illness	3
+Parkinson Disease	3
+hydranencephaly	3
+mitochondrial encephalomyopathy	3
+neurologic conditions	3
+Infantile Spasms	3
+heterotopias	3
+type-2 diabetes	3
+defasciculation	3
+alcohol-dependence	3
+cardiometabolic diseases	3
+flatulence	3
+systemic malformations	3
+IOP	3
+autosomal recessive disease	3
+constipation symptoms	3
+OCSDs	3
+adaptive skills deficits	3
+auditory language cortex	3
+neurodevelopmental disorder Rett syndrome	3
+craniofacial defects	3
+lymphoid nodular hyperplasia	3
+reactive attachment disorder	3
+autistic syndrome disorder	3
+Charcot-Marie-Tooth disease	3
+hypoxic ischemic encephalopathy	3
+allergic-asthma	3
+musculoskeletal abnormalities	3
+pachygyria	3
+Fetal alcohol syndrome	3
+TLS	3
+sensory deprivation	3
+idiopathic focal epilepsy	3
+Hypertensive Disorders	3
+autism and Pervasive Developmental Disorder	3
+LDEs	3
+behaviorally defined disorders	3
+Autism, Epilepsy	3
+Behavioral deficits	3
+inappropriate sexual behavior	3
+repetitive behaviors and impairments	3
+ocular motor dysfunction	3
+idiopathic generalized epilepsy syndromes	3
+dystrophy	3
+emotional trauma	3
+tonic-clonic seizure	3
+structural abnormalities in the brain	3
+autism plan	3
+developmental delay/autism	3
+neurofunctional deficits	3
+dementia and autism	3
+gastrointestinal and sleep disorders	3
+HA	3
+band heterotopia	3
+autistic spectrum of disorders	3
+baldness	3
+Anxiety Related Emotional Disorders	3
+endocrinopathies	3
+attention-deficit/Hyperactivity disorder	3
+LA	3
+Haploinsufficiency Syndrome	3
+psychomotor deficits	3
+brain glucose metabolism	3
+Nbea haploinsufficiency	3
+communication deficits in autism spectrum disorders	3
+rigid-compulsive behaviors	3
+empathic sadness	3
+immune system dysfunction	3
+idiopathic disorders	3
+NNDs	3
+Systemic lupus erythematosus	3
+cognitive deficit in autism	3
+SED	3
+cancer deaths	3
+ischaemia	3
+attention-deficit/hyperactivity disorder (ADHD) symptoms	3
+CROSS	3
+Rubella Vaccination and Autism	3
+cerebellar defects	3
+detrimental impacts	3
+Deficiency Disorder	3
+childhood asthma	3
+ataxic gait	3
+oppositional defiant disorder or conduct disorder	3
+neurological and psychiatric	3
+epilepsy/infantile spasms	3
+non-epileptic seizures	3
+idiopathic neurodevelopmental disorders	3
+nephronophthisis	3
+fra X	3
+obsessive compulsive disorders	3
+isolated cleft palate	3
+MAOA deficiency	3
+Autism Features	3
+embryonic nervous system	3
+wheat allergy	3
+immunological memory	3
